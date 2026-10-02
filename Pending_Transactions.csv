@@ -1,0 +1,602 @@
+﻿Transaction ID,Transaction Date,Customer Name,Transaction Type,Transaction Status,Gender,Customer Segment,State,Total Amount,Total Fees,Total Tax
+T00000259,2025-08-07 00:00:00,Pooja Gupta,Transfer,Pending,Female,SME,West Bengal,₹ 16426.70,₹ 0.00,₹ 0.00
+T00000263,2025-04-01 00:00:00,Arjun Bansal,Withdrawal,Pending,Female,Retail,Tamil Nadu,₹ 2672.62,₹ 5.35,₹ 0.96
+T00000295,2025-11-01 00:00:00,Diya Jain,Fee Charge,Pending,Female,Premium,Maharashtra,₹ 718.57,₹ 0.72,₹ 0.13
+T00000321,2025-06-12 00:00:00,Vivaan Malhotra,Deposit,Pending,Female,Retail,Uttar Pradesh,₹ 3578.21,₹ 3.58,₹ 0.64
+T00000444,2025-02-16 00:00:00,Pari Chopra,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 8547.74,₹ 17.10,₹ 3.08
+T00000482,2025-10-20 00:00:00,Nisha Malhotra,Deposit,Pending,Female,Retail,Madhya Pradesh,₹ 33223.67,₹ 0.00,₹ 0.00
+T00000527,2025-12-31 00:00:00,Rahul Kumar,Investment,Pending,Female,Retail,Delhi,₹ 31120.63,₹ 0.00,₹ 0.00
+T00000890,2025-08-22 00:00:00,Rohan Nair,Deposit,Pending,Female,Retail,Maharashtra,₹ 5181.00,₹ 25.91,₹ 4.66
+T00000898,2025-06-06 00:00:00,Ira Singh,Deposit,Pending,Male,Corporate,Rajasthan,₹ 11131.46,₹ 0.00,₹ 0.00
+T00001071,2025-02-01 00:00:00,Aadhya Kapoor,Transfer,Pending,Female,Retail,Chandigarh,₹ 12731.01,₹ 0.00,₹ 0.00
+T00001100,2025-10-24 00:00:00,Neha Jain,Card Payment,Pending,Male,SME,Rajasthan,₹ 10774.19,₹ 10.77,₹ 1.94
+T00001116,2025-01-28 00:00:00,Sai Sharma,Fee Charge,Pending,Female,Retail,Maharashtra,₹ 479.68,₹ 0.48,₹ 0.09
+T00001127,2025-10-14 00:00:00,Ira Desai,Investment,Pending,Female,Retail,Madhya Pradesh,₹ 17529.35,₹ 87.65,₹ 15.78
+T00001137,2025-03-06 00:00:00,Aadhya Jain,Transfer,Pending,Male,Corporate,Gujarat,₹ 11019.29,₹ 55.10,₹ 9.92
+T00001277,2025-04-01 00:00:00,Myra Jain,Transfer,Pending,Male,Retail,Delhi,₹ 3877.40,₹ 7.75,₹ 1.40
+T00001433,2025-03-13 00:00:00,Nisha Reddy,Withdrawal,Pending,Male,Retail,Uttar Pradesh,₹ 8636.21,₹ 17.27,₹ 3.11
+T00001484,2025-06-24 00:00:00,Anika Nair,Investment,Pending,Male,Retail,Tamil Nadu,₹ 16292.65,₹ 32.59,₹ 5.87
+T00001738,2025-01-04 00:00:00,Aarav Reddy,Deposit,Pending,Male,Retail,Delhi,₹ 7712.29,₹ 0.00,₹ 0.00
+T00001795,2025-02-28 00:00:00,Nisha Verma,Transfer,Pending,Male,SME,Gujarat,₹ 15340.31,₹ 15.34,₹ 2.76
+T00001827,2025-05-23 00:00:00,Arjun Verma,Deposit,Pending,Female,Retail,Maharashtra,₹ 4791.17,₹ 9.58,₹ 1.72
+T00002030,2025-08-19 00:00:00,Pari Chopra,Deposit,Pending,Male,Premium,Madhya Pradesh,₹ 5274.00,₹ 26.37,₹ 4.75
+T00002076,2025-07-08 00:00:00,Sneha Kumar,Bill Payment,Pending,Female,Corporate,Tamil Nadu,₹ 2884.13,₹ 0.00,₹ 0.00
+T00002208,2025-03-01 00:00:00,Amit Joshi,Transfer,Pending,Male,Retail,Maharashtra,₹ 40581.24,₹ 40.58,₹ 7.30
+T00002283,2025-03-01 00:00:00,Aadhya Singh,Loan EMI,Pending,Male,Retail,West Bengal,₹ 1984.76,₹ 1.98,₹ 0.36
+T00002507,2025-01-31 00:00:00,Ira Bansal,Loan EMI,Pending,Male,SME,West Bengal,₹ 6602.38,₹ 13.20,₹ 2.38
+T00002565,2025-10-20 00:00:00,Aditya Kapoor,Transfer,Pending,Female,Premium,Rajasthan,₹ 40542.63,₹ 202.71,₹ 36.49
+T00002591,2025-02-17 00:00:00,Kabir Singh,Investment,Pending,Female,Corporate,Kerala,₹ 10488.20,₹ 10.49,₹ 1.89
+T00002697,2025-12-21 00:00:00,Arjun Desai,Loan EMI,Pending,Female,Wealth,Madhya Pradesh,₹ 10930.91,₹ 10.93,₹ 1.97
+T00002731,2025-01-21 00:00:00,Vihaan Desai,Refund,Pending,Male,Corporate,Madhya Pradesh,₹ 2806.01,₹ 0.00,₹ 0.00
+T00002760,2025-12-01 00:00:00,Sara Bansal,Loan EMI,Pending,Female,Retail,Tamil Nadu,₹ 5279.15,₹ 0.00,₹ 0.00
+T00002781,2025-09-08 00:00:00,Pooja Verma,Loan EMI,Pending,Female,Retail,Tamil Nadu,₹ 19457.77,₹ 0.00,₹ 0.00
+T00002855,2025-02-09 00:00:00,Aadhya Chopra,Card Payment,Pending,Female,Retail,Chandigarh,₹ 2913.14,₹ 2.91,₹ 0.52
+T00002861,2025-12-07 00:00:00,Aarav Sharma,Loan EMI,Pending,Female,Retail,Tamil Nadu,₹ 4371.93,₹ 0.00,₹ 0.00
+T00002872,2025-10-10 00:00:00,Ayaan Kapoor,Withdrawal,Pending,Female,Retail,Karnataka,₹ 2302.87,₹ 0.00,₹ 0.00
+T00003047,2025-04-28 00:00:00,Ayaan Agarwal,Loan EMI,Pending,Male,Retail,Chandigarh,₹ 14370.31,₹ 0.00,₹ 0.00
+T00003210,2025-12-06 00:00:00,Sara Jain,Transfer,Pending,Male,Premium,Madhya Pradesh,₹ 9739.86,₹ 9.74,₹ 1.75
+T00003268,2025-07-15 00:00:00,Karan Reddy,Fee Charge,Pending,Male,SME,Karnataka,₹ 449.18,₹ 0.45,₹ 0.08
+T00003344,2025-12-29 00:00:00,Diya Desai,Transfer,Pending,Female,SME,Haryana,₹ 5764.04,₹ 0.00,₹ 0.00
+T00003391,2025-01-02 00:00:00,Riya Jain,Transfer,Pending,Male,Retail,Telangana,₹ 9045.65,₹ 0.00,₹ 0.00
+T00003456,2025-08-29 00:00:00,Krishna Iyer,Investment,Pending,Female,SME,Chandigarh,₹ 44369.57,₹ 88.74,₹ 15.97
+T00003519,2025-01-05 00:00:00,Neha Kapoor,Interest Credit,Pending,Male,Retail,Madhya Pradesh,₹ 1434.74,₹ 7.17,₹ 1.29
+T00003573,2025-06-21 00:00:00,Krishna Malhotra,Investment,Pending,Female,Retail,Maharashtra,₹ 38796.83,₹ 193.98,₹ 34.92
+T00003646,2025-02-14 00:00:00,Aditya Jain,Loan EMI,Pending,Male,SME,Telangana,₹ 18832.34,₹ 37.66,₹ 6.78
+T00003780,2025-05-07 00:00:00,Nisha Gupta,Transfer,Pending,Male,Premium,Kerala,₹ 21416.90,₹ 0.00,₹ 0.00
+T00003887,2025-01-11 00:00:00,Sneha Chopra,Deposit,Pending,Female,Retail,Maharashtra,₹ 4732.37,₹ 0.00,₹ 0.00
+T00004043,2025-07-04 00:00:00,Karan Bansal,Card Payment,Pending,Male,SME,West Bengal,₹ 1049.06,₹ 2.10,₹ 0.38
+T00004184,2025-02-18 00:00:00,Pari Kulkarni,Fee Charge,Pending,Male,Retail,Delhi,₹ 854.08,₹ 0.00,₹ 0.00
+T00004191,2025-08-20 00:00:00,Sneha Kapoor,Bill Payment,Pending,Female,Retail,Karnataka,₹ 15678.30,₹ 15.68,₹ 2.82
+T00004252,2025-12-28 00:00:00,Nisha Patel,Loan EMI,Pending,Male,Retail,Karnataka,₹ 22804.28,₹ 22.80,₹ 4.10
+T00004339,2025-03-04 00:00:00,Pooja Bansal,Interest Credit,Pending,Female,Retail,West Bengal,₹ 4053.33,₹ 0.00,₹ 0.00
+T00004367,2025-12-13 00:00:00,Vihaan Agarwal,Fee Charge,Pending,Male,Retail,Karnataka,₹ 390.96,₹ 1.95,₹ 0.35
+T00004377,2025-04-01 00:00:00,Sneha Kapoor,Refund,Pending,Female,Retail,Gujarat,₹ 3520.55,₹ 0.00,₹ 0.00
+T00004431,2025-11-12 00:00:00,Rohan Malhotra,Bill Payment,Pending,Female,Premium,Gujarat,₹ 3399.36,₹ 0.00,₹ 0.00
+T00004434,2025-04-12 00:00:00,Anika Malhotra,Deposit,Pending,Female,Retail,Haryana,₹ 3506.66,₹ 0.00,₹ 0.00
+T00004485,2025-07-08 00:00:00,Aarav Kapoor,Transfer,Pending,Female,Corporate,Maharashtra,₹ 8730.03,₹ 43.65,₹ 7.86
+T00004487,2025-08-11 00:00:00,Neha Bansal,Bill Payment,Pending,Male,Retail,Maharashtra,₹ 4058.81,₹ 20.29,₹ 3.65
+T00004534,2025-07-03 00:00:00,Anaya Kulkarni,Deposit,Pending,Male,Premium,Uttar Pradesh,₹ 24117.03,₹ 0.00,₹ 0.00
+T00004683,2025-06-26 00:00:00,Ayaan Kulkarni,Withdrawal,Pending,Male,Premium,Maharashtra,₹ 3831.27,₹ 0.00,₹ 0.00
+T00004727,2025-10-05 00:00:00,Ira Patel,Transfer,Pending,Male,Wealth,Haryana,₹ 6120.09,₹ 0.00,₹ 0.00
+T00004750,2025-06-11 00:00:00,Anaya Nair,Transfer,Pending,Male,SME,Karnataka,₹ 27710.85,₹ 27.71,₹ 4.99
+T00004809,2025-05-28 00:00:00,Anika Nair,Deposit,Pending,Male,Retail,Karnataka,₹ 14650.98,₹ 0.00,₹ 0.00
+T00004819,2025-08-09 00:00:00,Karan Bansal,Fee Charge,Pending,Female,Corporate,Tamil Nadu,₹ 237.89,₹ 0.48,₹ 0.09
+T00004827,2025-08-19 00:00:00,Krishna Chopra,Interest Credit,Pending,Female,Retail,Telangana,₹ 4419.64,₹ 8.84,₹ 1.59
+T00004843,2025-01-03 00:00:00,Rohan Gupta,Card Payment,Pending,Female,Retail,Kerala,₹ 5855.79,₹ 5.86,₹ 1.05
+T00004933,2025-01-06 00:00:00,Reyansh Patel,Withdrawal,Pending,Male,Retail,Kerala,₹ 7594.75,₹ 7.59,₹ 1.37
+T00004983,2025-05-03 00:00:00,Pari Gupta,Loan EMI,Pending,Male,Retail,Maharashtra,₹ 15739.67,₹ 0.00,₹ 0.00
+T00005008,2025-11-01 00:00:00,Kiara Kumar,Transfer,Pending,Female,Premium,Karnataka,₹ 4468.19,₹ 0.00,₹ 0.00
+T00005038,2025-09-26 00:00:00,Diya Kulkarni,Interest Credit,Pending,Female,Retail,Gujarat,₹ 1875.76,₹ 0.00,₹ 0.00
+T00005322,2025-12-03 00:00:00,Reyansh Kapoor,Investment,Pending,Female,Premium,Madhya Pradesh,₹ 4272.90,₹ 0.00,₹ 0.00
+T00005424,2025-10-07 00:00:00,Ira Kumar,Withdrawal,Pending,Female,Retail,West Bengal,₹ 4596.01,₹ 9.19,₹ 1.65
+T00005443,2025-02-27 00:00:00,Amit Gupta,Loan EMI,Pending,Female,Retail,Uttar Pradesh,₹ 39916.80,₹ 79.83,₹ 14.37
+T00005510,2025-10-29 00:00:00,Diya Bansal,Card Payment,Pending,Male,Retail,Maharashtra,₹ 2248.39,₹ 2.25,₹ 0.40
+T00005580,2025-06-30 00:00:00,Sara Mishra,Bill Payment,Pending,Female,SME,Tamil Nadu,₹ 2220.60,₹ 0.00,₹ 0.00
+T00005643,2025-05-03 00:00:00,Vivaan Chopra,Transfer,Pending,Male,Retail,Delhi,₹ 9934.34,₹ 0.00,₹ 0.00
+T00005885,2025-04-24 00:00:00,Riya Mishra,Transfer,Pending,Male,SME,Madhya Pradesh,₹ 11029.40,₹ 0.00,₹ 0.00
+T00005918,2025-08-19 00:00:00,Vivaan Mishra,Loan EMI,Pending,Female,Retail,Tamil Nadu,₹ 25804.50,₹ 0.00,₹ 0.00
+T00006053,2025-01-01 00:00:00,Rohan Joshi,Card Payment,Pending,Female,Wealth,Madhya Pradesh,₹ 4636.13,₹ 0.00,₹ 0.00
+T00006081,2025-07-14 00:00:00,Ira Nair,Interest Credit,Pending,Male,Retail,Karnataka,₹ 3740.11,₹ 0.00,₹ 0.00
+T00006266,2025-10-21 00:00:00,Sneha Iyer,Card Payment,Pending,Male,Retail,Delhi,₹ 8640.18,₹ 0.00,₹ 0.00
+T00006367,2025-02-16 00:00:00,Rohan Mishra,Fee Charge,Pending,Male,Retail,Madhya Pradesh,₹ 896.24,₹ 4.48,₹ 0.81
+T00006381,2025-06-08 00:00:00,Amit Kapoor,Interest Credit,Pending,Female,Retail,Karnataka,₹ 635.05,₹ 1.27,₹ 0.23
+T00006469,2025-12-09 00:00:00,Myra Mehta,Withdrawal,Pending,Female,Retail,Maharashtra,₹ 12932.96,₹ 0.00,₹ 0.00
+T00006701,2025-07-31 00:00:00,Reyansh Malhotra,Card Payment,Pending,Female,Retail,Gujarat,₹ 2811.29,₹ 0.00,₹ 0.00
+T00006753,2025-09-05 00:00:00,Vivaan Jain,Withdrawal,Pending,Male,Corporate,Haryana,₹ 5043.03,₹ 5.04,₹ 0.91
+T00006901,2025-02-02 00:00:00,Reyansh Jain,Transfer,Pending,Female,SME,Gujarat,₹ 2501.33,₹ 5.00,₹ 0.90
+T00007041,2025-02-17 00:00:00,Aarav Iyer,Loan EMI,Pending,Female,SME,Kerala,₹ 6928.58,₹ 13.86,₹ 2.49
+T00007147,2025-12-28 00:00:00,Pari Kumar,Bill Payment,Pending,Male,Retail,Chandigarh,₹ 7620.76,₹ 0.00,₹ 0.00
+T00007153,2025-09-26 00:00:00,Sara Malhotra,Bill Payment,Pending,Male,Premium,Tamil Nadu,₹ 760.98,₹ 0.00,₹ 0.00
+T00007328,2025-11-13 00:00:00,Aadhya Desai,Deposit,Pending,Female,Wealth,West Bengal,₹ 10356.51,₹ 20.71,₹ 3.73
+T00007479,2025-08-01 00:00:00,Anaya Reddy,Withdrawal,Pending,Female,Premium,Madhya Pradesh,₹ 4305.04,₹ 8.61,₹ 1.55
+T00007684,2025-06-14 00:00:00,Aditya Kapoor,Withdrawal,Pending,Female,Retail,Maharashtra,₹ 11376.47,₹ 11.38,₹ 2.05
+T00007685,2025-09-19 00:00:00,Ayaan Verma,Card Payment,Pending,Male,Retail,West Bengal,₹ 7809.87,₹ 7.81,₹ 1.41
+T00007697,2025-10-25 00:00:00,Priya Verma,Transfer,Pending,Male,SME,Karnataka,₹ 10185.05,₹ 20.37,₹ 3.67
+T00007730,2025-12-23 00:00:00,Reyansh Kapoor,Fee Charge,Pending,Male,SME,Maharashtra,₹ 911.04,₹ 0.91,₹ 0.16
+T00007731,2025-10-15 00:00:00,Myra Iyer,Card Payment,Pending,Female,Premium,Tamil Nadu,₹ 5365.83,₹ 26.83,₹ 4.83
+T00007842,2025-03-27 00:00:00,Krishna Chopra,Loan EMI,Pending,Female,SME,Gujarat,₹ 14028.16,₹ 0.00,₹ 0.00
+T00007854,2025-07-27 00:00:00,Myra Joshi,Transfer,Pending,Male,Retail,Uttar Pradesh,₹ 2341.71,₹ 0.00,₹ 0.00
+T00007955,2025-10-24 00:00:00,Aditya Nair,Card Payment,Pending,Female,Retail,Delhi,₹ 6527.35,₹ 0.00,₹ 0.00
+T00008019,2025-03-01 00:00:00,Karan Agarwal,Bill Payment,Pending,Female,Retail,Madhya Pradesh,₹ 1327.23,₹ 2.65,₹ 0.48
+T00008035,2025-06-13 00:00:00,Diya Mishra,Bill Payment,Pending,Male,SME,Tamil Nadu,₹ 3254.54,₹ 0.00,₹ 0.00
+T00008125,2025-05-15 00:00:00,Pari Mishra,Fee Charge,Pending,Female,Retail,Gujarat,₹ 220.35,₹ 0.00,₹ 0.00
+T00008231,2025-03-31 00:00:00,Myra Patel,Fee Charge,Pending,Male,SME,Tamil Nadu,₹ 197.59,₹ 0.99,₹ 0.18
+T00008247,2025-10-29 00:00:00,Sara Desai,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 17051.85,₹ 85.26,₹ 15.35
+T00008300,2025-01-23 00:00:00,Nisha Kulkarni,Bill Payment,Pending,Male,Retail,Karnataka,₹ 2959.42,₹ 14.80,₹ 2.66
+T00008324,2025-02-12 00:00:00,Aadhya Nair,Loan EMI,Pending,Female,Corporate,Telangana,₹ 4344.42,₹ 8.69,₹ 1.56
+T00008329,2025-05-27 00:00:00,Diya Bansal,Card Payment,Pending,Female,Retail,Haryana,₹ 4336.16,₹ 4.34,₹ 0.78
+T00008484,2025-07-11 00:00:00,Ira Mishra,Bill Payment,Pending,Male,Corporate,Tamil Nadu,₹ 861.18,₹ 0.00,₹ 0.00
+T00008513,2025-08-09 00:00:00,Amit Agarwal,Loan EMI,Pending,Female,Corporate,Maharashtra,₹ 12086.48,₹ 60.43,₹ 10.88
+T00008550,2025-01-02 00:00:00,Pooja Kumar,Loan EMI,Pending,Male,Corporate,Madhya Pradesh,₹ 15582.61,₹ 0.00,₹ 0.00
+T00008620,2025-10-09 00:00:00,Ishaan Kumar,Transfer,Pending,Male,Retail,Karnataka,₹ 19347.30,₹ 0.00,₹ 0.00
+T00008624,2025-08-20 00:00:00,Rahul Singh,Investment,Pending,Male,Premium,Tamil Nadu,₹ 8189.72,₹ 8.19,₹ 1.47
+T00008689,2025-06-01 00:00:00,Neha Sharma,Interest Credit,Pending,Female,Retail,Uttar Pradesh,₹ 136.22,₹ 0.00,₹ 0.00
+T00008728,2025-11-21 00:00:00,Nisha Chopra,Withdrawal,Pending,Female,Premium,Gujarat,₹ 6800.16,₹ 34.00,₹ 6.12
+T00008731,2025-03-23 00:00:00,Krishna Singh,Transfer,Pending,Female,SME,Tamil Nadu,₹ 8669.10,₹ 17.34,₹ 3.12
+T00008804,2025-06-21 00:00:00,Diya Nair,Fee Charge,Pending,Female,Premium,Gujarat,₹ 823.82,₹ 0.00,₹ 0.00
+T00008846,2025-07-22 00:00:00,Anaya Joshi,Interest Credit,Pending,Male,SME,Maharashtra,₹ 333.03,₹ 0.67,₹ 0.12
+T00009038,2025-06-29 00:00:00,Krishna Reddy,Loan EMI,Pending,Male,Retail,Karnataka,₹ 14842.61,₹ 0.00,₹ 0.00
+T00009071,2025-09-26 00:00:00,Aadhya Bansal,Card Payment,Pending,Female,Retail,Gujarat,₹ 4874.39,₹ 4.87,₹ 0.88
+T00009451,2025-08-14 00:00:00,Aadhya Singh,Withdrawal,Pending,Female,Corporate,Uttar Pradesh,₹ 2474.57,₹ 0.00,₹ 0.00
+T00009492,2025-11-17 00:00:00,Sara Patel,Deposit,Pending,Female,SME,Karnataka,₹ 16241.68,₹ 0.00,₹ 0.00
+T00009650,2025-03-02 00:00:00,Amit Sharma,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 39200.08,₹ 196.00,₹ 35.28
+T00009781,2025-08-19 00:00:00,Riya Desai,Loan EMI,Pending,Female,SME,Maharashtra,₹ 10121.46,₹ 10.12,₹ 1.82
+T00009867,2025-10-10 00:00:00,Diya Iyer,Fee Charge,Pending,Male,Retail,Tamil Nadu,₹ 167.56,₹ 0.00,₹ 0.00
+T00009872,2025-10-02 00:00:00,Priya Patel,Card Payment,Pending,Female,Premium,Gujarat,₹ 7132.44,₹ 35.66,₹ 6.42
+T00009884,2025-08-24 00:00:00,Arjun Bansal,Loan EMI,Pending,Male,Retail,Gujarat,₹ 202872.21,₹ 0.00,₹ 0.00
+T00009940,2025-05-27 00:00:00,Riya Kumar,Transfer,Pending,Female,Retail,Chandigarh,₹ 4502.30,₹ 0.00,₹ 0.00
+T00010077,2025-07-16 00:00:00,Anika Malhotra,Refund,Pending,Female,SME,Gujarat,₹ 246.80,₹ 0.25,₹ 0.04
+T00010091,2025-09-16 00:00:00,Diya Gupta,Withdrawal,Pending,Male,Retail,Uttar Pradesh,₹ 6115.30,₹ 12.23,₹ 2.20
+T00010163,2025-03-14 00:00:00,Pooja Singh,Loan EMI,Pending,Female,Retail,Gujarat,₹ 10327.13,₹ 0.00,₹ 0.00
+T00010166,2025-04-13 00:00:00,Ira Iyer,Transfer,Pending,Female,SME,Uttar Pradesh,₹ 9656.76,₹ 19.31,₹ 3.48
+T00010167,2025-12-02 00:00:00,Ayaan Desai,Deposit,Pending,Male,Corporate,Tamil Nadu,₹ 14886.89,₹ 0.00,₹ 0.00
+T00010195,2025-09-27 00:00:00,Myra Iyer,Transfer,Pending,Male,SME,Karnataka,₹ 5599.82,₹ 11.20,₹ 2.02
+T00010316,2025-08-19 00:00:00,Sai Malhotra,Refund,Pending,Female,Retail,Uttar Pradesh,₹ 2161.43,₹ 4.32,₹ 0.78
+T00010414,2025-05-28 00:00:00,Ayaan Singh,Loan EMI,Pending,Female,Retail,Karnataka,₹ 20669.91,₹ 0.00,₹ 0.00
+T00010536,2025-06-17 00:00:00,Vihaan Mehta,Loan EMI,Pending,Female,SME,Kerala,₹ 12668.39,₹ 25.34,₹ 4.56
+T00010617,2025-04-16 00:00:00,Sneha Patel,Interest Credit,Pending,Female,Corporate,West Bengal,₹ 1634.86,₹ 8.17,₹ 1.47
+T00010755,2025-04-16 00:00:00,Ira Jain,Interest Credit,Pending,Male,Premium,West Bengal,₹ 716.67,₹ 0.00,₹ 0.00
+T00010882,2025-07-29 00:00:00,Kabir Kapoor,Withdrawal,Pending,Male,Premium,Gujarat,₹ 5827.86,₹ 0.00,₹ 0.00
+T00010908,2025-10-19 00:00:00,Ira Kumar,Refund,Pending,Male,SME,Maharashtra,₹ 860.88,₹ 0.00,₹ 0.00
+T00011101,2025-02-22 00:00:00,Aadhya Joshi,Deposit,Pending,Male,SME,Haryana,₹ 6374.05,₹ 31.87,₹ 5.74
+T00011120,2025-06-17 00:00:00,Rahul Agarwal,Refund,Pending,Female,Retail,Karnataka,₹ 3024.99,₹ 0.00,₹ 0.00
+T00011162,2025-01-29 00:00:00,Ishaan Iyer,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 10465.61,₹ 52.33,₹ 9.42
+T00011191,2025-06-01 00:00:00,Myra Joshi,Withdrawal,Pending,Male,Premium,Uttar Pradesh,₹ 1943.43,₹ 3.89,₹ 0.70
+T00011208,2025-09-19 00:00:00,Sara Singh,Card Payment,Pending,Male,Premium,Maharashtra,₹ 4057.27,₹ 8.11,₹ 1.46
+T00011296,2025-01-14 00:00:00,Pari Kulkarni,Investment,Pending,Male,Retail,West Bengal,₹ 2827.97,₹ 5.66,₹ 1.02
+T00011369,2025-09-28 00:00:00,Diya Reddy,Withdrawal,Pending,Male,SME,Haryana,₹ 2408.55,₹ 12.04,₹ 2.17
+T00011402,2025-08-18 00:00:00,Vivaan Agarwal,Investment,Pending,Female,Retail,Karnataka,₹ 14415.65,₹ 72.08,₹ 12.97
+T00011410,2025-01-06 00:00:00,Karan Mishra,Deposit,Pending,Female,SME,Uttar Pradesh,₹ 12215.01,₹ 61.08,₹ 10.99
+T00011482,2025-02-21 00:00:00,Sai Kumar,Card Payment,Pending,Male,Corporate,Haryana,₹ 6336.99,₹ 0.00,₹ 0.00
+T00011587,2025-03-23 00:00:00,Sara Malhotra,Deposit,Pending,Male,Premium,Tamil Nadu,₹ 19553.50,₹ 0.00,₹ 0.00
+T00011782,2025-09-04 00:00:00,Ishaan Chopra,Transfer,Pending,Female,Corporate,Gujarat,₹ 7609.01,₹ 38.05,₹ 6.85
+T00011847,2025-07-28 00:00:00,Sara Mehta,Investment,Pending,Female,Premium,Madhya Pradesh,₹ 44653.78,₹ 0.00,₹ 0.00
+T00011911,2025-03-29 00:00:00,Amit Jain,Deposit,Pending,Female,Retail,Maharashtra,₹ 840.25,₹ 0.84,₹ 0.15
+T00011920,2025-10-19 00:00:00,Anaya Agarwal,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 2880.51,₹ 2.88,₹ 0.52
+T00012005,2025-02-07 00:00:00,Kabir Reddy,Interest Credit,Pending,Female,Premium,Kerala,₹ 4091.71,₹ 8.18,₹ 1.47
+T00012016,2025-07-23 00:00:00,Ira Joshi,Fee Charge,Pending,Female,SME,Kerala,₹ 692.98,₹ 0.00,₹ 0.00
+T00012025,2025-12-09 00:00:00,Aarav Chopra,Refund,Pending,Male,Retail,Maharashtra,₹ 449.92,₹ 0.00,₹ 0.00
+T00012077,2025-11-16 00:00:00,Aarav Sharma,Fee Charge,Pending,Female,SME,Rajasthan,₹ 324.63,₹ 1.62,₹ 0.29
+T00012083,2025-06-28 00:00:00,Anika Joshi,Investment,Pending,Male,Retail,Telangana,₹ 13847.04,₹ 69.24,₹ 12.46
+T00012181,2025-12-12 00:00:00,Anika Verma,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 8129.77,₹ 8.13,₹ 1.46
+T00012211,2025-11-03 00:00:00,Vihaan Bansal,Transfer,Pending,Female,Retail,Madhya Pradesh,₹ 1218.70,₹ 1.22,₹ 0.22
+T00012295,2025-06-19 00:00:00,Reyansh Kulkarni,Card Payment,Pending,Female,Retail,Maharashtra,₹ 8193.95,₹ 40.97,₹ 7.37
+T00012794,2025-01-31 00:00:00,Ayaan Nair,Interest Credit,Pending,Female,Retail,Uttar Pradesh,₹ 3009.13,₹ 3.01,₹ 0.54
+T00012824,2025-11-26 00:00:00,Anaya Mehta,Loan EMI,Pending,Male,Premium,Karnataka,₹ 29003.33,₹ 145.02,₹ 26.10
+T00012889,2025-12-20 00:00:00,Pari Chopra,Deposit,Pending,Male,Premium,Madhya Pradesh,₹ 25997.39,₹ 51.99,₹ 9.36
+T00012968,2025-04-12 00:00:00,Kiara Kapoor,Refund,Pending,Female,Corporate,Delhi,₹ 2921.04,₹ 2.92,₹ 0.53
+T00013044,2025-01-08 00:00:00,Sara Mishra,Loan EMI,Pending,Female,Retail,Telangana,₹ 39209.73,₹ 78.42,₹ 14.12
+T00013081,2025-01-08 00:00:00,Aadhya Kapoor,Transfer,Pending,Female,Retail,Uttar Pradesh,₹ 12894.67,₹ 25.79,₹ 4.64
+T00013296,2025-12-26 00:00:00,Diya Mishra,Bill Payment,Pending,Male,Retail,Maharashtra,₹ 10812.56,₹ 10.81,₹ 1.95
+T00013344,2025-04-23 00:00:00,Rohan Agarwal,Loan EMI,Pending,Male,Retail,Madhya Pradesh,₹ 18995.98,₹ 94.98,₹ 17.10
+T00013400,2025-12-02 00:00:00,Neha Verma,Withdrawal,Pending,Male,Premium,Gujarat,₹ 3035.43,₹ 0.00,₹ 0.00
+T00013465,2025-07-09 00:00:00,Ira Chopra,Fee Charge,Pending,Male,Retail,Maharashtra,₹ 890.48,₹ 4.45,₹ 0.80
+T00013525,2025-05-24 00:00:00,Neha Verma,Card Payment,Pending,Female,Retail,Madhya Pradesh,₹ 3269.96,₹ 6.54,₹ 1.18
+T00013574,2025-12-07 00:00:00,Pari Gupta,Loan EMI,Pending,Female,Retail,Karnataka,₹ 5057.83,₹ 5.06,₹ 0.91
+T00013680,2025-07-17 00:00:00,Rohan Mehta,Transfer,Pending,Male,Wealth,Rajasthan,₹ 17214.60,₹ 86.07,₹ 15.49
+T00013745,2025-05-26 00:00:00,Sara Malhotra,Fee Charge,Pending,Male,Premium,Tamil Nadu,₹ 823.44,₹ 0.82,₹ 0.15
+T00013934,2025-12-13 00:00:00,Amit Reddy,Transfer,Pending,Male,SME,Maharashtra,₹ 82591.71,₹ 0.00,₹ 0.00
+T00013976,2025-02-03 00:00:00,Priya Desai,Deposit,Pending,Male,Premium,Maharashtra,₹ 19183.61,₹ 0.00,₹ 0.00
+T00013984,2025-09-26 00:00:00,Riya Patel,Withdrawal,Pending,Male,Premium,Gujarat,₹ 3600.52,₹ 0.00,₹ 0.00
+T00014348,2025-06-17 00:00:00,Karan Agarwal,Loan EMI,Pending,Female,SME,Chandigarh,₹ 5019.95,₹ 10.04,₹ 1.81
+T00014389,2025-11-26 00:00:00,Ishaan Gupta,Card Payment,Pending,Male,Retail,Tamil Nadu,₹ 6915.80,₹ 34.58,₹ 6.22
+T00014402,2025-06-02 00:00:00,Neha Mishra,Loan EMI,Pending,Male,Retail,Maharashtra,₹ 75231.81,₹ 0.00,₹ 0.00
+T00014755,2025-02-23 00:00:00,Pari Sharma,Investment,Pending,Female,Wealth,Gujarat,₹ 6661.74,₹ 33.31,₹ 6.00
+T00014818,2025-07-14 00:00:00,Neha Gupta,Bill Payment,Pending,Female,Retail,Telangana,₹ 7409.44,₹ 7.41,₹ 1.33
+T00015045,2025-06-30 00:00:00,Ayaan Singh,Loan EMI,Pending,Male,SME,Maharashtra,₹ 8209.27,₹ 16.42,₹ 2.96
+T00015072,2025-02-18 00:00:00,Amit Mehta,Refund,Pending,Male,SME,Gujarat,₹ 1904.47,₹ 3.81,₹ 0.69
+T00015081,2025-08-10 00:00:00,Anaya Kumar,Interest Credit,Pending,Male,Retail,Chandigarh,₹ 1984.69,₹ 9.92,₹ 1.79
+T00015162,2025-06-27 00:00:00,Aadhya Joshi,Loan EMI,Pending,Male,Premium,Maharashtra,₹ 22257.40,₹ 0.00,₹ 0.00
+T00015183,2025-02-20 00:00:00,Kiara Gupta,Fee Charge,Pending,Male,Retail,West Bengal,₹ 520.12,₹ 0.52,₹ 0.09
+T00015348,2025-12-27 00:00:00,Arjun Patel,Fee Charge,Pending,Female,Premium,Maharashtra,₹ 311.41,₹ 0.00,₹ 0.00
+T00015472,2025-08-05 00:00:00,Arjun Nair,Loan EMI,Pending,Female,SME,Delhi,₹ 10421.93,₹ 20.84,₹ 3.75
+T00015491,2025-06-14 00:00:00,Reyansh Chopra,Investment,Pending,Female,SME,Karnataka,₹ 14009.47,₹ 0.00,₹ 0.00
+T00015500,2025-12-28 00:00:00,Anika Gupta,Transfer,Pending,Male,Retail,Uttar Pradesh,₹ 9106.72,₹ 9.11,₹ 1.64
+T00015503,2025-12-15 00:00:00,Neha Iyer,Loan EMI,Pending,Female,Premium,Karnataka,₹ 8569.20,₹ 0.00,₹ 0.00
+T00015558,2025-03-18 00:00:00,Vivaan Kumar,Loan EMI,Pending,Male,SME,Madhya Pradesh,₹ 3327.19,₹ 3.33,₹ 0.60
+T00015638,2025-05-13 00:00:00,Aditya Kumar,Bill Payment,Pending,Female,Retail,Maharashtra,₹ 3222.91,₹ 3.22,₹ 0.58
+T00015682,2025-02-03 00:00:00,Nisha Chopra,Investment,Pending,Male,Retail,Rajasthan,₹ 10216.24,₹ 51.08,₹ 9.19
+T00015684,2025-11-03 00:00:00,Pooja Jain,Interest Credit,Pending,Female,Retail,Rajasthan,₹ 1415.46,₹ 2.83,₹ 0.51
+T00015731,2025-05-22 00:00:00,Aadhya Iyer,Transfer,Pending,Female,Premium,Chandigarh,₹ 8552.72,₹ 0.00,₹ 0.00
+T00015795,2025-07-13 00:00:00,Amit Kulkarni,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 16139.70,₹ 32.28,₹ 5.81
+T00015920,2025-01-23 00:00:00,Aditya Bansal,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 28742.37,₹ 28.74,₹ 5.17
+T00015956,2025-12-08 00:00:00,Pari Singh,Deposit,Pending,Female,Premium,Rajasthan,₹ 21607.72,₹ 108.04,₹ 19.45
+T00016063,2025-07-15 00:00:00,Sara Reddy,Loan EMI,Pending,Female,Wealth,Kerala,₹ 8673.70,₹ 17.35,₹ 3.12
+T00016067,2025-10-24 00:00:00,Arjun Nair,Transfer,Pending,Male,Retail,Karnataka,₹ 13942.62,₹ 27.89,₹ 5.02
+T00016114,2025-04-03 00:00:00,Rohan Kapoor,Bill Payment,Pending,Female,Retail,Maharashtra,₹ 3904.70,₹ 0.00,₹ 0.00
+T00016209,2025-11-03 00:00:00,Vihaan Jain,Deposit,Pending,Male,Premium,Haryana,₹ 25766.10,₹ 51.53,₹ 9.28
+T00016254,2025-12-09 00:00:00,Rohan Kapoor,Withdrawal,Pending,Male,Retail,West Bengal,₹ 3439.61,₹ 17.20,₹ 3.10
+T00016276,2025-01-25 00:00:00,Ira Nair,Deposit,Pending,Female,SME,Delhi,₹ 29466.26,₹ 0.00,₹ 0.00
+T00016295,2025-07-18 00:00:00,Pari Mehta,Loan EMI,Pending,Male,Wealth,Rajasthan,₹ 22319.39,₹ 44.64,₹ 8.04
+T00016470,2025-02-27 00:00:00,Rohan Chopra,Card Payment,Pending,Female,Premium,Maharashtra,₹ 7020.51,₹ 0.00,₹ 0.00
+T00016553,2025-07-29 00:00:00,Anaya Sharma,Withdrawal,Pending,Male,Retail,Karnataka,₹ 3394.02,₹ 16.97,₹ 3.05
+T00016624,2025-11-02 00:00:00,Reyansh Jain,Card Payment,Pending,Female,Retail,Telangana,₹ 1403.06,₹ 1.40,₹ 0.25
+T00016677,2025-04-10 00:00:00,Pooja Sharma,Loan EMI,Pending,Female,Corporate,Delhi,₹ 14005.40,₹ 14.01,₹ 2.52
+T00016985,2025-05-19 00:00:00,Aadhya Mishra,Investment,Pending,Female,Retail,Rajasthan,₹ 2955.57,₹ 0.00,₹ 0.00
+T00017026,2025-02-10 00:00:00,Riya Kumar,Card Payment,Pending,Male,SME,Delhi,₹ 1795.74,₹ 1.80,₹ 0.32
+T00017063,2025-04-30 00:00:00,Kiara Jain,Loan EMI,Pending,Male,SME,Madhya Pradesh,₹ 5444.25,₹ 27.22,₹ 4.90
+T00017080,2025-02-07 00:00:00,Sneha Kapoor,Loan EMI,Pending,Male,SME,Tamil Nadu,₹ 3616.03,₹ 7.23,₹ 1.30
+T00017131,2025-07-20 00:00:00,Krishna Verma,Investment,Pending,Female,SME,Uttar Pradesh,₹ 23978.34,₹ 47.96,₹ 8.63
+T00017135,2025-02-14 00:00:00,Aditya Mishra,Withdrawal,Pending,Female,Retail,Gujarat,₹ 1421.40,₹ 0.00,₹ 0.00
+T00017318,2025-07-14 00:00:00,Sai Gupta,Refund,Pending,Female,Retail,Kerala,₹ 1647.75,₹ 0.00,₹ 0.00
+T00017604,2025-10-10 00:00:00,Amit Kumar,Card Payment,Pending,Female,Retail,Gujarat,₹ 1476.55,₹ 2.95,₹ 0.53
+T00017620,2025-08-23 00:00:00,Arjun Nair,Loan EMI,Pending,Male,Corporate,Delhi,₹ 6599.81,₹ 33.00,₹ 5.94
+T00017641,2025-12-31 00:00:00,Krishna Kapoor,Loan EMI,Pending,Male,Wealth,Kerala,₹ 2082.91,₹ 0.00,₹ 0.00
+T00017668,2025-11-22 00:00:00,Diya Singh,Deposit,Pending,Male,SME,Tamil Nadu,₹ 7830.79,₹ 15.66,₹ 2.82
+T00017765,2025-06-01 00:00:00,Ira Bansal,Loan EMI,Pending,Male,Retail,Madhya Pradesh,₹ 11063.22,₹ 0.00,₹ 0.00
+T00017792,2025-06-16 00:00:00,Aarav Kulkarni,Interest Credit,Pending,Female,Retail,Delhi,₹ 2058.79,₹ 10.29,₹ 1.85
+T00018015,2025-04-29 00:00:00,Vihaan Iyer,Fee Charge,Pending,Female,SME,Karnataka,₹ 562.18,₹ 0.56,₹ 0.10
+T00018110,2025-04-17 00:00:00,Aditya Malhotra,Interest Credit,Pending,Male,Retail,Gujarat,₹ 2636.96,₹ 0.00,₹ 0.00
+T00018128,2025-08-22 00:00:00,Sara Patel,Withdrawal,Pending,Female,Retail,Gujarat,₹ 2333.91,₹ 0.00,₹ 0.00
+T00018148,2025-03-29 00:00:00,Ayaan Agarwal,Withdrawal,Pending,Male,Retail,Uttar Pradesh,₹ 3232.92,₹ 0.00,₹ 0.00
+T00018267,2025-02-20 00:00:00,Rahul Singh,Bill Payment,Pending,Female,Retail,Haryana,₹ 2036.63,₹ 10.18,₹ 1.83
+T00018360,2025-04-18 00:00:00,Arjun Malhotra,Withdrawal,Pending,Female,Premium,Rajasthan,₹ 3018.45,₹ 3.02,₹ 0.54
+T00018427,2025-08-04 00:00:00,Aarav Kapoor,Loan EMI,Pending,Female,SME,Karnataka,₹ 5047.07,₹ 10.09,₹ 1.82
+T00018508,2025-04-26 00:00:00,Neha Chopra,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 10362.30,₹ 51.81,₹ 9.33
+T00018518,2025-11-07 00:00:00,Rahul Singh,Bill Payment,Pending,Female,Retail,Haryana,₹ 5127.24,₹ 0.00,₹ 0.00
+T00018688,2025-04-23 00:00:00,Vivaan Bansal,Deposit,Pending,Male,Retail,Maharashtra,₹ 21834.51,₹ 0.00,₹ 0.00
+T00018692,2025-02-26 00:00:00,Priya Bansal,Card Payment,Pending,Female,SME,Chandigarh,₹ 2763.49,₹ 13.82,₹ 2.49
+T00018766,2025-12-15 00:00:00,Pooja Desai,Loan EMI,Pending,Male,Retail,Delhi,₹ 1669.18,₹ 0.00,₹ 0.00
+T00018807,2025-07-10 00:00:00,Vivaan Jain,Transfer,Pending,Female,Retail,Telangana,₹ 9323.97,₹ 9.32,₹ 1.68
+T00018950,2025-07-22 00:00:00,Sneha Sharma,Fee Charge,Pending,Male,Retail,Madhya Pradesh,₹ 453.22,₹ 0.91,₹ 0.16
+T00019030,2025-03-28 00:00:00,Myra Verma,Withdrawal,Pending,Female,Retail,Gujarat,₹ 3740.72,₹ 0.00,₹ 0.00
+T00019073,2025-09-22 00:00:00,Aarav Mehta,Bill Payment,Pending,Female,Retail,Haryana,₹ 5126.19,₹ 0.00,₹ 0.00
+T00019077,2025-04-06 00:00:00,Reyansh Bansal,Card Payment,Pending,Female,Premium,Karnataka,₹ 6459.56,₹ 6.46,₹ 1.16
+T00019194,2025-01-18 00:00:00,Karan Gupta,Fee Charge,Pending,Male,Premium,Kerala,₹ 796.39,₹ 0.80,₹ 0.14
+T00019231,2025-04-01 00:00:00,Anika Iyer,Refund,Pending,Female,Retail,Uttar Pradesh,₹ 222.71,₹ 0.45,₹ 0.08
+T00019236,2025-09-30 00:00:00,Anika Malhotra,Interest Credit,Pending,Female,Wealth,Delhi,₹ 752.09,₹ 3.76,₹ 0.68
+T00019254,2025-11-06 00:00:00,Aditya Nair,Bill Payment,Pending,Female,Retail,Delhi,₹ 4591.96,₹ 9.18,₹ 1.65
+T00019258,2025-04-22 00:00:00,Pari Chopra,Card Payment,Pending,Female,Retail,Kerala,₹ 3109.94,₹ 6.22,₹ 1.12
+T00019261,2025-10-13 00:00:00,Kabir Kumar,Bill Payment,Pending,Female,Retail,West Bengal,₹ 2757.44,₹ 13.79,₹ 2.48
+T00019301,2025-12-19 00:00:00,Pooja Gupta,Investment,Pending,Male,Retail,Maharashtra,₹ 66373.45,₹ 66.37,₹ 11.95
+T00019557,2025-09-08 00:00:00,Anaya Nair,Loan EMI,Pending,Male,Retail,Maharashtra,₹ 7638.43,₹ 15.28,₹ 2.75
+T00019584,2025-12-28 00:00:00,Anika Singh,Card Payment,Pending,Female,Retail,Gujarat,₹ 14677.56,₹ 0.00,₹ 0.00
+T00019720,2025-03-28 00:00:00,Sara Desai,Loan EMI,Pending,Female,Corporate,Maharashtra,₹ 4398.45,₹ 0.00,₹ 0.00
+T00019783,2025-02-12 00:00:00,Priya Gupta,Interest Credit,Pending,Male,SME,Delhi,₹ 1087.95,₹ 1.09,₹ 0.20
+T00019800,2025-09-05 00:00:00,Ayaan Sharma,Deposit,Pending,Male,Retail,Madhya Pradesh,₹ 9183.07,₹ 18.37,₹ 3.31
+T00019812,2025-10-29 00:00:00,Diya Bansal,Deposit,Pending,Male,Retail,Madhya Pradesh,₹ 3076.93,₹ 6.15,₹ 1.11
+T00019813,2025-07-09 00:00:00,Reyansh Nair,Card Payment,Pending,Female,Retail,Uttar Pradesh,₹ 2354.34,₹ 2.35,₹ 0.42
+T00019856,2025-06-09 00:00:00,Anaya Desai,Transfer,Pending,Female,Retail,Uttar Pradesh,₹ 2825.26,₹ 5.65,₹ 1.02
+T00019915,2025-06-17 00:00:00,Riya Kapoor,Loan EMI,Pending,Male,Retail,Telangana,₹ 3661.92,₹ 3.66,₹ 0.66
+T00019925,2025-03-04 00:00:00,Sai Gupta,Loan EMI,Pending,Male,Retail,Maharashtra,₹ 7382.82,₹ 36.91,₹ 6.64
+T00020109,2025-11-03 00:00:00,Sai Malhotra,Refund,Pending,Male,Premium,Karnataka,₹ 1851.51,₹ 9.26,₹ 1.67
+T00020116,2025-01-19 00:00:00,Priya Jain,Card Payment,Pending,Male,Retail,Tamil Nadu,₹ 1522.43,₹ 7.61,₹ 1.37
+T00020436,2025-06-01 00:00:00,Arjun Verma,Loan EMI,Pending,Male,Retail,Karnataka,₹ 3812.20,₹ 0.00,₹ 0.00
+T00020458,2025-02-23 00:00:00,Anika Bansal,Transfer,Pending,Male,Premium,West Bengal,₹ 25643.44,₹ 51.29,₹ 9.23
+T00020469,2025-08-02 00:00:00,Diya Singh,Withdrawal,Pending,Female,Premium,Maharashtra,₹ 1357.73,₹ 1.36,₹ 0.24
+T00020665,2025-01-31 00:00:00,Arjun Sharma,Transfer,Pending,Female,Wealth,Maharashtra,₹ 20247.68,₹ 0.00,₹ 0.00
+T00020666,2025-04-01 00:00:00,Ishaan Jain,Transfer,Pending,Female,Corporate,Chandigarh,₹ 22054.41,₹ 22.05,₹ 3.97
+T00020724,2025-08-23 00:00:00,Riya Reddy,Transfer,Pending,Female,Retail,Tamil Nadu,₹ 64431.46,₹ 64.43,₹ 11.60
+T00020751,2025-05-19 00:00:00,Aditya Nair,Transfer,Pending,Female,Retail,Karnataka,₹ 1333.87,₹ 0.00,₹ 0.00
+T00020771,2025-03-11 00:00:00,Vihaan Kumar,Withdrawal,Pending,Female,Retail,Uttar Pradesh,₹ 1650.02,₹ 0.00,₹ 0.00
+T00020833,2025-08-03 00:00:00,Kabir Patel,Deposit,Pending,Male,Retail,Delhi,₹ 17928.87,₹ 35.86,₹ 6.45
+T00020834,2025-11-21 00:00:00,Rahul Iyer,Fee Charge,Pending,Female,Wealth,Karnataka,₹ 851.27,₹ 0.00,₹ 0.00
+T00020931,2025-11-01 00:00:00,Neha Malhotra,Deposit,Pending,Male,Retail,Chandigarh,₹ 6546.95,₹ 32.73,₹ 5.89
+T00021103,2025-08-17 00:00:00,Reyansh Sharma,Deposit,Pending,Male,Retail,Kerala,₹ 4256.33,₹ 0.00,₹ 0.00
+T00021170,2025-04-15 00:00:00,Vivaan Kumar,Transfer,Pending,Male,Retail,Tamil Nadu,₹ 3779.13,₹ 0.00,₹ 0.00
+T00021353,2025-06-17 00:00:00,Rohan Nair,Bill Payment,Pending,Male,Retail,Kerala,₹ 3140.78,₹ 0.00,₹ 0.00
+T00021444,2025-09-17 00:00:00,Aadhya Sharma,Deposit,Pending,Male,Premium,Rajasthan,₹ 15690.24,₹ 31.38,₹ 5.65
+T00021489,2025-02-23 00:00:00,Rahul Mehta,Deposit,Pending,Male,Retail,Rajasthan,₹ 685.16,₹ 0.00,₹ 0.00
+T00021540,2025-10-27 00:00:00,Myra Chopra,Interest Credit,Pending,Female,Retail,West Bengal,₹ 1421.87,₹ 2.84,₹ 0.51
+T00021562,2025-02-21 00:00:00,Sai Agarwal,Card Payment,Pending,Male,Retail,Haryana,₹ 2465.12,₹ 0.00,₹ 0.00
+T00021565,2025-12-05 00:00:00,Karan Jain,Loan EMI,Pending,Female,Corporate,Uttar Pradesh,₹ 7037.31,₹ 0.00,₹ 0.00
+T00021581,2025-10-08 00:00:00,Ishaan Reddy,Card Payment,Pending,Male,Retail,Maharashtra,₹ 8125.35,₹ 0.00,₹ 0.00
+T00021685,2025-11-28 00:00:00,Vivaan Kulkarni,Loan EMI,Pending,Female,Premium,Haryana,₹ 27319.61,₹ 27.32,₹ 4.92
+T00021801,2025-05-08 00:00:00,Sneha Kulkarni,Transfer,Pending,Male,Retail,Uttar Pradesh,₹ 36717.04,₹ 0.00,₹ 0.00
+T00021813,2025-12-24 00:00:00,Sai Agarwal,Withdrawal,Pending,Male,Retail,Haryana,₹ 646.79,₹ 0.00,₹ 0.00
+T00021897,2025-03-19 00:00:00,Arjun Iyer,Transfer,Pending,Female,Premium,Chandigarh,₹ 25000.32,₹ 0.00,₹ 0.00
+T00022127,2025-06-27 00:00:00,Sara Patel,Withdrawal,Pending,Female,SME,Karnataka,₹ 39126.76,₹ 0.00,₹ 0.00
+T00022173,2025-08-02 00:00:00,Vihaan Verma,Deposit,Pending,Male,Premium,Madhya Pradesh,₹ 75605.24,₹ 378.03,₹ 68.05
+T00022188,2025-06-07 00:00:00,Amit Nair,Investment,Pending,Male,Retail,Tamil Nadu,₹ 4100.75,₹ 0.00,₹ 0.00
+T00022216,2025-02-17 00:00:00,Aadhya Kumar,Interest Credit,Pending,Female,Retail,Rajasthan,₹ 983.24,₹ 0.00,₹ 0.00
+T00022305,2025-11-28 00:00:00,Aadhya Malhotra,Fee Charge,Pending,Female,Retail,Madhya Pradesh,₹ 801.79,₹ 4.01,₹ 0.72
+T00022343,2025-08-05 00:00:00,Reyansh Gupta,Fee Charge,Pending,Female,Wealth,Karnataka,₹ 800.85,₹ 0.80,₹ 0.14
+T00022407,2025-04-04 00:00:00,Kabir Joshi,Loan EMI,Pending,Female,Retail,Delhi,₹ 25889.15,₹ 25.89,₹ 4.66
+T00022466,2025-06-21 00:00:00,Rohan Kulkarni,Card Payment,Pending,Male,Wealth,Maharashtra,₹ 2371.94,₹ 4.74,₹ 0.85
+T00023080,2025-09-10 00:00:00,Sara Chopra,Interest Credit,Pending,Male,Retail,Rajasthan,₹ 2476.18,₹ 2.48,₹ 0.45
+T00023339,2025-04-05 00:00:00,Kiara Iyer,Fee Charge,Pending,Male,Retail,Kerala,₹ 119.95,₹ 0.00,₹ 0.00
+T00023623,2025-03-05 00:00:00,Nisha Verma,Loan EMI,Pending,Female,Retail,Uttar Pradesh,₹ 23115.78,₹ 0.00,₹ 0.00
+T00023665,2025-03-19 00:00:00,Anika Desai,Transfer,Pending,Male,Retail,Karnataka,₹ 24449.95,₹ 0.00,₹ 0.00
+T00023676,2025-07-30 00:00:00,Krishna Sharma,Transfer,Pending,Female,Wealth,Maharashtra,₹ 6168.97,₹ 12.34,₹ 2.22
+T00023778,2025-11-16 00:00:00,Vihaan Kumar,Interest Credit,Pending,Female,Retail,Uttar Pradesh,₹ 2439.71,₹ 4.88,₹ 0.88
+T00023930,2025-12-27 00:00:00,Reyansh Bansal,Card Payment,Pending,Male,Retail,Gujarat,₹ 4958.78,₹ 9.92,₹ 1.79
+T00023969,2025-11-06 00:00:00,Anaya Mishra,Fee Charge,Pending,Female,Retail,Haryana,₹ 338.34,₹ 1.69,₹ 0.30
+T00024143,2025-08-22 00:00:00,Ayaan Joshi,Refund,Pending,Female,Retail,Karnataka,₹ 2271.31,₹ 0.00,₹ 0.00
+T00024187,2025-09-11 00:00:00,Krishna Verma,Loan EMI,Pending,Female,SME,Uttar Pradesh,₹ 6054.73,₹ 0.00,₹ 0.00
+T00024223,2025-10-02 00:00:00,Sai Agarwal,Withdrawal,Pending,Female,Premium,Gujarat,₹ 3086.48,₹ 0.00,₹ 0.00
+T00024233,2025-05-16 00:00:00,Kabir Joshi,Transfer,Pending,Female,Retail,Madhya Pradesh,₹ 6395.04,₹ 31.98,₹ 5.76
+T00024386,2025-12-11 00:00:00,Ayaan Gupta,Deposit,Pending,Male,Premium,Uttar Pradesh,₹ 7296.64,₹ 14.59,₹ 2.63
+T00024496,2025-03-06 00:00:00,Priya Singh,Fee Charge,Pending,Female,SME,Karnataka,₹ 510.80,₹ 0.00,₹ 0.00
+T00024589,2025-07-10 00:00:00,Pari Jain,Transfer,Pending,Male,Retail,Madhya Pradesh,₹ 4537.04,₹ 9.07,₹ 1.63
+T00024617,2025-10-04 00:00:00,Karan Reddy,Bill Payment,Pending,Male,SME,Karnataka,₹ 1261.69,₹ 0.00,₹ 0.00
+T00024651,2025-03-02 00:00:00,Anaya Singh,Loan EMI,Pending,Male,Premium,Tamil Nadu,₹ 12700.06,₹ 0.00,₹ 0.00
+T00024696,2025-07-26 00:00:00,Kabir Bansal,Bill Payment,Pending,Female,Retail,Maharashtra,₹ 1860.14,₹ 1.86,₹ 0.33
+T00024736,2025-02-25 00:00:00,Aditya Sharma,Transfer,Pending,Female,Retail,Haryana,₹ 13745.40,₹ 68.73,₹ 12.37
+T00024740,2025-12-30 00:00:00,Vivaan Joshi,Loan EMI,Pending,Male,Retail,Tamil Nadu,₹ 70996.94,₹ 354.98,₹ 63.90
+T00024744,2025-09-01 00:00:00,Aadhya Sharma,Fee Charge,Pending,Male,Premium,Rajasthan,₹ 949.14,₹ 4.75,₹ 0.85
+T00024762,2025-07-21 00:00:00,Arjun Gupta,Deposit,Pending,Male,Retail,Tamil Nadu,₹ 10075.03,₹ 10.08,₹ 1.81
+T00024804,2025-05-05 00:00:00,Sai Singh,Interest Credit,Pending,Female,Retail,Telangana,₹ 1927.92,₹ 9.64,₹ 1.74
+T00024816,2025-08-08 00:00:00,Nisha Patel,Card Payment,Pending,Female,Retail,Maharashtra,₹ 1031.90,₹ 1.03,₹ 0.19
+T00024850,2025-12-24 00:00:00,Kabir Agarwal,Interest Credit,Pending,Male,Retail,Maharashtra,₹ 3744.72,₹ 3.74,₹ 0.67
+T00025139,2025-04-27 00:00:00,Diya Reddy,Loan EMI,Pending,Male,Retail,Delhi,₹ 4441.82,₹ 0.00,₹ 0.00
+T00025211,2025-11-12 00:00:00,Priya Chopra,Withdrawal,Pending,Female,Corporate,Chandigarh,₹ 1034.46,₹ 0.00,₹ 0.00
+T00025294,2025-05-28 00:00:00,Ishaan Gupta,Deposit,Pending,Male,Retail,Tamil Nadu,₹ 13693.46,₹ 0.00,₹ 0.00
+T00025343,2025-09-25 00:00:00,Arjun Mehta,Card Payment,Pending,Female,SME,Telangana,₹ 4072.12,₹ 0.00,₹ 0.00
+T00025431,2025-10-03 00:00:00,Vivaan Chopra,Transfer,Pending,Female,Retail,Maharashtra,₹ 10366.69,₹ 20.73,₹ 3.73
+T00025669,2025-06-22 00:00:00,Priya Singh,Bill Payment,Pending,Female,Corporate,Maharashtra,₹ 1766.90,₹ 8.83,₹ 1.59
+T00025681,2025-01-09 00:00:00,Sneha Jain,Bill Payment,Pending,Male,Premium,Maharashtra,₹ 2076.03,₹ 10.38,₹ 1.87
+T00025739,2025-05-23 00:00:00,Vihaan Agarwal,Loan EMI,Pending,Male,Retail,Tamil Nadu,₹ 7792.70,₹ 15.59,₹ 2.81
+T00025758,2025-02-21 00:00:00,Sara Mishra,Card Payment,Pending,Male,Premium,Rajasthan,₹ 3258.15,₹ 0.00,₹ 0.00
+T00025876,2025-08-03 00:00:00,Priya Kulkarni,Investment,Pending,Male,SME,Maharashtra,₹ 37052.51,₹ 74.11,₹ 13.34
+T00025998,2025-05-18 00:00:00,Diya Desai,Card Payment,Pending,Female,SME,Haryana,₹ 3400.99,₹ 17.00,₹ 3.06
+T00026258,2025-07-05 00:00:00,Sara Bansal,Interest Credit,Pending,Female,Retail,Kerala,₹ 2223.32,₹ 11.12,₹ 2.00
+T00026301,2025-08-26 00:00:00,Vihaan Sharma,Transfer,Pending,Male,Retail,Madhya Pradesh,₹ 5728.72,₹ 0.00,₹ 0.00
+T00026388,2025-03-17 00:00:00,Ayaan Iyer,Refund,Pending,Male,Retail,Maharashtra,₹ 291.99,₹ 0.29,₹ 0.05
+T00026662,2025-09-07 00:00:00,Sara Desai,Interest Credit,Pending,Female,Retail,Maharashtra,₹ 252.50,₹ 0.00,₹ 0.00
+T00026695,2025-02-21 00:00:00,Amit Kapoor,Bill Payment,Pending,Female,Retail,Gujarat,₹ 1008.08,₹ 1.01,₹ 0.18
+T00026741,2025-07-17 00:00:00,Ira Malhotra,Card Payment,Pending,Male,Retail,Madhya Pradesh,₹ 1259.93,₹ 0.00,₹ 0.00
+T00026752,2025-09-02 00:00:00,Vivaan Gupta,Transfer,Pending,Male,Retail,Tamil Nadu,₹ 17377.09,₹ 0.00,₹ 0.00
+T00026809,2025-03-07 00:00:00,Krishna Patel,Bill Payment,Pending,Male,Premium,Chandigarh,₹ 2353.57,₹ 0.00,₹ 0.00
+T00026813,2025-07-11 00:00:00,Ira Verma,Bill Payment,Pending,Female,Retail,Tamil Nadu,₹ 1377.39,₹ 6.89,₹ 1.24
+T00026890,2025-05-15 00:00:00,Nisha Mishra,Card Payment,Pending,Female,SME,Uttar Pradesh,₹ 2796.16,₹ 0.00,₹ 0.00
+T00027180,2025-07-21 00:00:00,Karan Agarwal,Transfer,Pending,Male,Retail,Karnataka,₹ 12053.13,₹ 0.00,₹ 0.00
+T00027223,2025-06-19 00:00:00,Anika Patel,Fee Charge,Pending,Male,Retail,Gujarat,₹ 729.32,₹ 0.00,₹ 0.00
+T00027311,2025-11-07 00:00:00,Myra Mehta,Fee Charge,Pending,Male,SME,Telangana,₹ 183.87,₹ 0.37,₹ 0.07
+T00027446,2025-09-12 00:00:00,Reyansh Iyer,Loan EMI,Pending,Female,Retail,Tamil Nadu,₹ 9531.25,₹ 0.00,₹ 0.00
+T00027537,2025-05-30 00:00:00,Arjun Desai,Refund,Pending,Female,SME,Delhi,₹ 3679.93,₹ 3.68,₹ 0.66
+T00027798,2025-08-19 00:00:00,Arjun Iyer,Deposit,Pending,Female,Retail,West Bengal,₹ 5280.05,₹ 0.00,₹ 0.00
+T00027803,2025-07-11 00:00:00,Aarav Singh,Card Payment,Pending,Male,Retail,Tamil Nadu,₹ 1788.63,₹ 1.79,₹ 0.32
+T00028030,2025-11-16 00:00:00,Priya Malhotra,Deposit,Pending,Female,Retail,Maharashtra,₹ 8763.65,₹ 0.00,₹ 0.00
+T00028408,2025-05-26 00:00:00,Rahul Mishra,Investment,Pending,Female,Retail,Gujarat,₹ 2912.78,₹ 5.83,₹ 1.05
+T00028528,2025-10-18 00:00:00,Nisha Kapoor,Interest Credit,Pending,Female,Corporate,Kerala,₹ 1621.82,₹ 0.00,₹ 0.00
+T00028546,2025-06-02 00:00:00,Sneha Desai,Investment,Pending,Female,Retail,Gujarat,₹ 1252.51,₹ 0.00,₹ 0.00
+T00028610,2025-10-06 00:00:00,Nisha Patel,Withdrawal,Pending,Male,Retail,Karnataka,₹ 18945.36,₹ 37.89,₹ 6.82
+T00028675,2025-07-16 00:00:00,Neha Kapoor,Transfer,Pending,Male,Retail,Chandigarh,₹ 3071.77,₹ 15.36,₹ 2.76
+T00028766,2025-05-07 00:00:00,Rahul Kulkarni,Loan EMI,Pending,Female,Retail,Karnataka,₹ 7212.89,₹ 36.06,₹ 6.49
+T00028841,2025-07-23 00:00:00,Diya Mehta,Investment,Pending,Female,Retail,Maharashtra,₹ 46367.71,₹ 231.84,₹ 41.73
+T00028983,2025-05-06 00:00:00,Karan Iyer,Fee Charge,Pending,Female,Retail,Tamil Nadu,₹ 596.37,₹ 2.98,₹ 0.54
+T00029145,2025-01-04 00:00:00,Kiara Agarwal,Transfer,Pending,Female,Retail,Karnataka,₹ 8507.71,₹ 0.00,₹ 0.00
+T00029283,2025-12-18 00:00:00,Anaya Mishra,Fee Charge,Pending,Female,Retail,Gujarat,₹ 857.65,₹ 0.00,₹ 0.00
+T00029285,2025-09-15 00:00:00,Rahul Kapoor,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 12290.80,₹ 0.00,₹ 0.00
+T00029339,2025-09-18 00:00:00,Anaya Mehta,Bill Payment,Pending,Male,Retail,Karnataka,₹ 1397.03,₹ 0.00,₹ 0.00
+T00029361,2025-09-24 00:00:00,Pari Patel,Investment,Pending,Male,Retail,Madhya Pradesh,₹ 45293.48,₹ 0.00,₹ 0.00
+T00029386,2025-03-31 00:00:00,Kabir Joshi,Loan EMI,Pending,Female,Premium,Tamil Nadu,₹ 26521.78,₹ 53.04,₹ 9.55
+T00029485,2025-06-30 00:00:00,Ayaan Agarwal,Withdrawal,Pending,Male,Retail,Madhya Pradesh,₹ 2806.64,₹ 0.00,₹ 0.00
+T00029548,2025-10-26 00:00:00,Reyansh Verma,Card Payment,Pending,Male,Premium,Gujarat,₹ 4118.56,₹ 0.00,₹ 0.00
+T00029649,2025-08-30 00:00:00,Anaya Desai,Card Payment,Pending,Male,Premium,Uttar Pradesh,₹ 3519.23,₹ 3.52,₹ 0.63
+T00029767,2025-11-04 00:00:00,Kiara Desai,Transfer,Pending,Female,SME,Madhya Pradesh,₹ 10786.27,₹ 10.79,₹ 1.94
+T00030041,2025-10-27 00:00:00,Kiara Gupta,Transfer,Pending,Male,Retail,West Bengal,₹ 5957.66,₹ 11.92,₹ 2.15
+T00030066,2025-09-13 00:00:00,Ayaan Mishra,Fee Charge,Pending,Male,Retail,Telangana,₹ 913.43,₹ 1.83,₹ 0.33
+T00030377,2025-03-09 00:00:00,Anaya Kulkarni,Interest Credit,Pending,Male,Premium,Uttar Pradesh,₹ 127.49,₹ 0.13,₹ 0.02
+T00030663,2025-08-26 00:00:00,Ira Kulkarni,Bill Payment,Pending,Male,SME,Tamil Nadu,₹ 6052.89,₹ 0.00,₹ 0.00
+T00030707,2025-04-08 00:00:00,Kiara Bansal,Deposit,Pending,Male,Retail,Kerala,₹ 18499.54,₹ 18.50,₹ 3.33
+T00030714,2025-04-17 00:00:00,Rahul Kulkarni,Loan EMI,Pending,Female,Retail,Uttar Pradesh,₹ 24885.36,₹ 24.89,₹ 4.48
+T00030846,2025-12-06 00:00:00,Ishaan Kumar,Deposit,Pending,Male,Retail,Karnataka,₹ 15633.40,₹ 0.00,₹ 0.00
+T00030865,2025-01-09 00:00:00,Anika Reddy,Card Payment,Pending,Male,Premium,Tamil Nadu,₹ 3014.43,₹ 6.03,₹ 1.09
+T00030875,2025-06-28 00:00:00,Rohan Iyer,Investment,Pending,Male,Retail,Delhi,₹ 15009.07,₹ 15.01,₹ 2.70
+T00030905,2025-05-25 00:00:00,Pari Joshi,Loan EMI,Pending,Female,Retail,Rajasthan,₹ 11810.82,₹ 11.81,₹ 2.13
+T00030931,2025-06-19 00:00:00,Kabir Agarwal,Deposit,Pending,Male,Retail,Uttar Pradesh,₹ 3831.37,₹ 7.66,₹ 1.38
+T00030974,2025-10-08 00:00:00,Rahul Nair,Deposit,Pending,Male,Retail,Maharashtra,₹ 13362.67,₹ 13.36,₹ 2.40
+T00031024,2025-08-22 00:00:00,Ishaan Singh,Refund,Pending,Female,Premium,Maharashtra,₹ 2606.97,₹ 2.61,₹ 0.47
+T00031264,2025-07-30 00:00:00,Priya Sharma,Withdrawal,Pending,Female,Retail,Gujarat,₹ 9618.39,₹ 0.00,₹ 0.00
+T00031311,2025-09-24 00:00:00,Sara Joshi,Card Payment,Pending,Male,Retail,Madhya Pradesh,₹ 4711.17,₹ 0.00,₹ 0.00
+T00031391,2025-05-19 00:00:00,Myra Mehta,Transfer,Pending,Male,Retail,Karnataka,₹ 3051.71,₹ 0.00,₹ 0.00
+T00031400,2025-09-22 00:00:00,Aarav Patel,Loan EMI,Pending,Male,Premium,Haryana,₹ 5431.84,₹ 5.43,₹ 0.98
+T00031561,2025-07-27 00:00:00,Neha Kapoor,Investment,Pending,Female,SME,Chandigarh,₹ 12097.98,₹ 12.10,₹ 2.18
+T00031610,2025-06-21 00:00:00,Ira Singh,Transfer,Pending,Female,Retail,Haryana,₹ 5170.98,₹ 25.85,₹ 4.65
+T00031683,2025-01-22 00:00:00,Rahul Kapoor,Investment,Pending,Male,Retail,Maharashtra,₹ 15849.40,₹ 79.25,₹ 14.26
+T00031766,2025-10-14 00:00:00,Krishna Joshi,Deposit,Pending,Male,Retail,Karnataka,₹ 4073.02,₹ 4.07,₹ 0.73
+T00031810,2025-10-14 00:00:00,Aarav Mehta,Refund,Pending,Female,Premium,Rajasthan,₹ 1783.90,₹ 8.92,₹ 1.61
+T00031846,2025-10-27 00:00:00,Ayaan Sharma,Loan EMI,Pending,Female,SME,Madhya Pradesh,₹ 7805.14,₹ 39.03,₹ 7.03
+T00031880,2025-02-09 00:00:00,Myra Patel,Investment,Pending,Female,Retail,Uttar Pradesh,₹ 1376.04,₹ 6.88,₹ 1.24
+T00031964,2025-04-10 00:00:00,Sai Kulkarni,Investment,Pending,Female,Retail,Karnataka,₹ 19859.18,₹ 39.72,₹ 7.15
+T00032083,2025-02-15 00:00:00,Nisha Verma,Withdrawal,Pending,Male,SME,Gujarat,₹ 4623.06,₹ 0.00,₹ 0.00
+T00032167,2025-07-23 00:00:00,Karan Jain,Card Payment,Pending,Female,Corporate,Uttar Pradesh,₹ 5756.53,₹ 5.76,₹ 1.04
+T00032227,2025-05-28 00:00:00,Priya Singh,Bill Payment,Pending,Female,SME,Gujarat,₹ 3833.95,₹ 3.83,₹ 0.69
+T00032272,2025-07-20 00:00:00,Krishna Jain,Withdrawal,Pending,Female,Retail,Telangana,₹ 3097.32,₹ 0.00,₹ 0.00
+T00032348,2025-09-24 00:00:00,Anaya Reddy,Bill Payment,Pending,Male,Retail,Delhi,₹ 3609.90,₹ 3.61,₹ 0.65
+T00032420,2025-12-23 00:00:00,Priya Malhotra,Loan EMI,Pending,Male,Retail,Gujarat,₹ 21193.22,₹ 42.39,₹ 7.63
+T00032454,2025-02-06 00:00:00,Ishaan Mishra,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 13856.19,₹ 0.00,₹ 0.00
+T00032465,2025-05-25 00:00:00,Aditya Mishra,Bill Payment,Pending,Female,Retail,Gujarat,₹ 1426.52,₹ 0.00,₹ 0.00
+T00032501,2025-09-02 00:00:00,Pooja Joshi,Transfer,Pending,Female,Retail,Kerala,₹ 20331.92,₹ 0.00,₹ 0.00
+T00032650,2025-05-11 00:00:00,Aditya Nair,Interest Credit,Pending,Female,Retail,Gujarat,₹ 4021.50,₹ 8.04,₹ 1.45
+T00032681,2025-12-16 00:00:00,Aadhya Chopra,Transfer,Pending,Male,Retail,Maharashtra,₹ 4944.36,₹ 0.00,₹ 0.00
+T00032871,2025-07-24 00:00:00,Pooja Singh,Investment,Pending,Female,Retail,West Bengal,₹ 37222.88,₹ 186.11,₹ 33.50
+T00033041,2025-10-23 00:00:00,Pooja Malhotra,Withdrawal,Pending,Male,Premium,Karnataka,₹ 1162.28,₹ 0.00,₹ 0.00
+T00033278,2025-03-27 00:00:00,Priya Patel,Loan EMI,Pending,Male,Retail,Uttar Pradesh,₹ 11235.02,₹ 0.00,₹ 0.00
+T00033295,2025-04-12 00:00:00,Priya Chopra,Withdrawal,Pending,Female,Retail,Gujarat,₹ 1118.58,₹ 0.00,₹ 0.00
+T00033313,2025-09-04 00:00:00,Pooja Desai,Interest Credit,Pending,Female,Retail,Maharashtra,₹ 2413.21,₹ 0.00,₹ 0.00
+T00033322,2025-06-05 00:00:00,Pari Bansal,Investment,Pending,Male,Retail,Uttar Pradesh,₹ 25227.86,₹ 126.14,₹ 22.71
+T00033404,2025-10-03 00:00:00,Aditya Kumar,Withdrawal,Pending,Female,Retail,Karnataka,₹ 2842.84,₹ 5.69,₹ 1.02
+T00033428,2025-03-15 00:00:00,Ayaan Gupta,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 14625.54,₹ 14.63,₹ 2.63
+T00033518,2025-12-05 00:00:00,Ayaan Malhotra,Loan EMI,Pending,Female,SME,Kerala,₹ 15897.48,₹ 0.00,₹ 0.00
+T00033550,2025-07-09 00:00:00,Ira Mishra,Deposit,Pending,Female,Retail,Uttar Pradesh,₹ 57278.18,₹ 114.56,₹ 20.62
+T00033685,2025-05-31 00:00:00,Kabir Reddy,Deposit,Pending,Female,Retail,Karnataka,₹ 3114.11,₹ 15.57,₹ 2.80
+T00033696,2025-05-31 00:00:00,Pooja Bansal,Refund,Pending,Male,Retail,Madhya Pradesh,₹ 3716.22,₹ 7.43,₹ 1.34
+T00033704,2025-05-31 00:00:00,Kiara Mishra,Loan EMI,Pending,Female,SME,Karnataka,₹ 14697.91,₹ 0.00,₹ 0.00
+T00033727,2025-01-24 00:00:00,Aarav Malhotra,Interest Credit,Pending,Female,Retail,Chandigarh,₹ 3094.06,₹ 15.47,₹ 2.78
+T00033736,2025-10-09 00:00:00,Sai Jain,Investment,Pending,Female,SME,Gujarat,₹ 3202.86,₹ 0.00,₹ 0.00
+T00033745,2025-09-12 00:00:00,Vivaan Patel,Card Payment,Pending,Male,Retail,Delhi,₹ 1034.58,₹ 0.00,₹ 0.00
+T00033761,2025-05-06 00:00:00,Aditya Jain,Loan EMI,Pending,Female,Retail,Haryana,₹ 5107.38,₹ 0.00,₹ 0.00
+T00033806,2025-10-13 00:00:00,Neha Reddy,Transfer,Pending,Male,Wealth,Karnataka,₹ 9761.37,₹ 0.00,₹ 0.00
+T00033820,2025-04-11 00:00:00,Reyansh Patel,Interest Credit,Pending,Male,Retail,Chandigarh,₹ 2383.38,₹ 0.00,₹ 0.00
+T00033827,2025-07-02 00:00:00,Reyansh Nair,Transfer,Pending,Female,Corporate,Chandigarh,₹ 5500.05,₹ 27.50,₹ 4.95
+T00033833,2025-11-09 00:00:00,Ayaan Kumar,Transfer,Pending,Female,Corporate,Maharashtra,₹ 5290.11,₹ 5.29,₹ 0.95
+T00033854,2025-03-21 00:00:00,Pari Malhotra,Interest Credit,Pending,Male,Wealth,Chandigarh,₹ 2088.56,₹ 0.00,₹ 0.00
+T00034042,2025-10-04 00:00:00,Pari Kapoor,Transfer,Pending,Male,Premium,Gujarat,₹ 1321.32,₹ 1.32,₹ 0.24
+T00034151,2025-09-12 00:00:00,Krishna Reddy,Card Payment,Pending,Male,Retail,Karnataka,₹ 8247.40,₹ 41.24,₹ 7.42
+T00034287,2025-02-20 00:00:00,Ira Bansal,Transfer,Pending,Male,SME,West Bengal,₹ 24650.73,₹ 123.25,₹ 22.18
+T00034467,2025-12-28 00:00:00,Rahul Iyer,Loan EMI,Pending,Male,SME,Kerala,₹ 2996.07,₹ 14.98,₹ 2.70
+T00034482,2025-05-30 00:00:00,Ishaan Mehta,Transfer,Pending,Female,Premium,Uttar Pradesh,₹ 8413.15,₹ 0.00,₹ 0.00
+T00034861,2025-02-27 00:00:00,Sneha Reddy,Bill Payment,Pending,Female,Retail,Chandigarh,₹ 22960.43,₹ 22.96,₹ 4.13
+T00034931,2025-02-15 00:00:00,Krishna Sharma,Card Payment,Pending,Male,Corporate,Telangana,₹ 23376.31,₹ 0.00,₹ 0.00
+T00035040,2025-01-22 00:00:00,Anika Sharma,Transfer,Pending,Male,Retail,Maharashtra,₹ 27834.62,₹ 0.00,₹ 0.00
+T00035075,2025-02-21 00:00:00,Pooja Kapoor,Interest Credit,Pending,Male,Retail,Karnataka,₹ 144.08,₹ 0.29,₹ 0.05
+T00035258,2025-02-22 00:00:00,Reyansh Kulkarni,Loan EMI,Pending,Female,SME,Tamil Nadu,₹ 23324.68,₹ 23.32,₹ 4.20
+T00035269,2025-05-18 00:00:00,Vivaan Kulkarni,Deposit,Pending,Female,Corporate,Maharashtra,₹ 7570.29,₹ 15.14,₹ 2.73
+T00035385,2025-04-13 00:00:00,Priya Patel,Loan EMI,Pending,Female,Premium,Gujarat,₹ 40766.60,₹ 0.00,₹ 0.00
+T00035460,2025-03-03 00:00:00,Aadhya Desai,Deposit,Pending,Male,Retail,Gujarat,₹ 8254.47,₹ 0.00,₹ 0.00
+T00035472,2025-04-13 00:00:00,Krishna Kulkarni,Loan EMI,Pending,Female,Premium,Tamil Nadu,₹ 20324.25,₹ 20.32,₹ 3.66
+T00035527,2025-06-25 00:00:00,Reyansh Kulkarni,Card Payment,Pending,Female,Wealth,Uttar Pradesh,₹ 1186.84,₹ 1.19,₹ 0.21
+T00035573,2025-05-09 00:00:00,Riya Mehta,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 16825.79,₹ 0.00,₹ 0.00
+T00035862,2025-02-28 00:00:00,Sneha Kapoor,Card Payment,Pending,Female,Retail,Madhya Pradesh,₹ 2391.21,₹ 2.39,₹ 0.43
+T00035872,2025-02-17 00:00:00,Sara Malhotra,Bill Payment,Pending,Female,Premium,Karnataka,₹ 1903.84,₹ 0.00,₹ 0.00
+T00036092,2025-02-12 00:00:00,Aadhya Singh,Card Payment,Pending,Female,Retail,Uttar Pradesh,₹ 3840.39,₹ 7.68,₹ 1.38
+T00036103,2025-02-14 00:00:00,Ishaan Singh,Card Payment,Pending,Female,Retail,Karnataka,₹ 8996.65,₹ 0.00,₹ 0.00
+T00036128,2025-09-09 00:00:00,Reyansh Singh,Deposit,Pending,Female,Retail,Uttar Pradesh,₹ 4776.40,₹ 0.00,₹ 0.00
+T00036140,2025-01-06 00:00:00,Priya Verma,Loan EMI,Pending,Male,Corporate,Maharashtra,₹ 6147.64,₹ 0.00,₹ 0.00
+T00036180,2025-03-22 00:00:00,Amit Kumar,Transfer,Pending,Female,Retail,Gujarat,₹ 7348.62,₹ 0.00,₹ 0.00
+T00036240,2025-09-10 00:00:00,Sneha Gupta,Loan EMI,Pending,Male,Premium,Karnataka,₹ 40068.36,₹ 0.00,₹ 0.00
+T00036304,2025-10-10 00:00:00,Karan Agarwal,Withdrawal,Pending,Male,Retail,Karnataka,₹ 5188.43,₹ 10.38,₹ 1.87
+T00036362,2025-12-01 00:00:00,Ayaan Singh,Transfer,Pending,Male,SME,Maharashtra,₹ 5031.19,₹ 10.06,₹ 1.81
+T00036368,2025-01-25 00:00:00,Kabir Patel,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 8412.56,₹ 8.41,₹ 1.51
+T00036409,2025-03-13 00:00:00,Neha Kapoor,Loan EMI,Pending,Female,Retail,Karnataka,₹ 18024.08,₹ 36.05,₹ 6.49
+T00036444,2025-04-01 00:00:00,Amit Malhotra,Bill Payment,Pending,Female,Retail,Tamil Nadu,₹ 213.28,₹ 1.07,₹ 0.19
+T00036628,2025-03-29 00:00:00,Nisha Kulkarni,Refund,Pending,Male,Retail,Haryana,₹ 4000.88,₹ 4.00,₹ 0.72
+T00036783,2025-05-01 00:00:00,Anaya Mehta,Transfer,Pending,Female,Premium,Maharashtra,₹ 5140.75,₹ 5.14,₹ 0.93
+T00036798,2025-10-02 00:00:00,Sara Kulkarni,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 15511.26,₹ 15.51,₹ 2.79
+T00036990,2025-05-29 00:00:00,Kiara Agarwal,Interest Credit,Pending,Male,Retail,Rajasthan,₹ 2762.28,₹ 13.81,₹ 2.49
+T00037059,2025-01-02 00:00:00,Kabir Gupta,Fee Charge,Pending,Female,Retail,Maharashtra,₹ 544.52,₹ 0.00,₹ 0.00
+T00037065,2025-02-16 00:00:00,Riya Gupta,Bill Payment,Pending,Female,Premium,Gujarat,₹ 3896.34,₹ 7.79,₹ 1.40
+T00037397,2025-01-25 00:00:00,Anika Sharma,Transfer,Pending,Female,SME,Uttar Pradesh,₹ 26211.00,₹ 26.21,₹ 4.72
+T00037702,2025-06-12 00:00:00,Pooja Mishra,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 17067.91,₹ 17.07,₹ 3.07
+T00037703,2025-08-07 00:00:00,Nisha Patel,Transfer,Pending,Male,Premium,Rajasthan,₹ 4386.13,₹ 4.39,₹ 0.79
+T00037788,2025-01-15 00:00:00,Aadhya Kapoor,Transfer,Pending,Male,SME,Maharashtra,₹ 3149.71,₹ 0.00,₹ 0.00
+T00037839,2025-09-09 00:00:00,Neha Mishra,Transfer,Pending,Male,Retail,Maharashtra,₹ 3232.01,₹ 3.23,₹ 0.58
+T00037881,2025-06-04 00:00:00,Amit Chopra,Deposit,Pending,Male,SME,Tamil Nadu,₹ 5444.13,₹ 0.00,₹ 0.00
+T00037982,2025-10-03 00:00:00,Arjun Chopra,Deposit,Pending,Male,Retail,Madhya Pradesh,₹ 13712.56,₹ 13.71,₹ 2.47
+T00037997,2025-06-18 00:00:00,Nisha Jain,Bill Payment,Pending,Female,SME,Uttar Pradesh,₹ 2151.87,₹ 2.15,₹ 0.39
+T00038006,2025-12-17 00:00:00,Sneha Kulkarni,Loan EMI,Pending,Male,Corporate,Tamil Nadu,₹ 45336.81,₹ 90.67,₹ 16.32
+T00038009,2025-12-15 00:00:00,Reyansh Patel,Card Payment,Pending,Male,Retail,Gujarat,₹ 675.66,₹ 0.00,₹ 0.00
+T00038103,2025-09-10 00:00:00,Aditya Bansal,Deposit,Pending,Male,Retail,Delhi,₹ 5661.25,₹ 11.32,₹ 2.04
+T00038615,2025-07-03 00:00:00,Arjun Gupta,Transfer,Pending,Male,Retail,Tamil Nadu,₹ 14900.53,₹ 0.00,₹ 0.00
+T00038724,2025-02-11 00:00:00,Riya Mishra,Deposit,Pending,Female,Premium,Haryana,₹ 13490.62,₹ 0.00,₹ 0.00
+T00038809,2025-06-19 00:00:00,Nisha Nair,Card Payment,Pending,Male,Wealth,Gujarat,₹ 5682.31,₹ 0.00,₹ 0.00
+T00038893,2025-12-22 00:00:00,Riya Patel,Refund,Pending,Female,Retail,Maharashtra,₹ 1682.26,₹ 0.00,₹ 0.00
+T00039010,2025-08-19 00:00:00,Pooja Kapoor,Deposit,Pending,Male,Retail,Maharashtra,₹ 36174.58,₹ 36.17,₹ 6.51
+T00039090,2025-11-15 00:00:00,Sara Patel,Transfer,Pending,Female,Retail,Gujarat,₹ 4000.11,₹ 0.00,₹ 0.00
+T00039125,2025-04-14 00:00:00,Priya Chopra,Loan EMI,Pending,Female,Corporate,Chandigarh,₹ 1921.92,₹ 9.61,₹ 1.73
+T00039273,2025-06-22 00:00:00,Nisha Malhotra,Loan EMI,Pending,Male,Wealth,West Bengal,₹ 65969.66,₹ 329.85,₹ 59.37
+T00039418,2025-07-01 00:00:00,Pooja Bansal,Withdrawal,Pending,Male,Retail,Uttar Pradesh,₹ 2306.22,₹ 2.31,₹ 0.42
+T00039456,2025-08-18 00:00:00,Pari Chopra,Bill Payment,Pending,Male,Retail,Madhya Pradesh,₹ 5987.16,₹ 29.94,₹ 5.39
+T00039519,2025-06-29 00:00:00,Sneha Desai,Card Payment,Pending,Male,Retail,Maharashtra,₹ 2913.29,₹ 14.57,₹ 2.62
+T00039557,2025-06-27 00:00:00,Sneha Bansal,Bill Payment,Pending,Female,Wealth,Rajasthan,₹ 16039.74,₹ 0.00,₹ 0.00
+T00039612,2025-12-19 00:00:00,Anaya Mehta,Investment,Pending,Female,Retail,Telangana,₹ 22495.03,₹ 0.00,₹ 0.00
+T00039786,2025-02-02 00:00:00,Rahul Reddy,Withdrawal,Pending,Female,Premium,Maharashtra,₹ 3418.94,₹ 0.00,₹ 0.00
+T00039839,2025-09-16 00:00:00,Rohan Nair,Refund,Pending,Female,Retail,Maharashtra,₹ 1828.06,₹ 0.00,₹ 0.00
+T00039892,2025-08-20 00:00:00,Sneha Mehta,Fee Charge,Pending,Male,Retail,Maharashtra,₹ 753.25,₹ 0.00,₹ 0.00
+T00040005,2025-07-05 00:00:00,Sneha Chopra,Withdrawal,Pending,Female,Retail,Maharashtra,₹ 11918.88,₹ 11.92,₹ 2.15
+T00040009,2025-03-15 00:00:00,Sara Mehta,Loan EMI,Pending,Female,Premium,Madhya Pradesh,₹ 11283.62,₹ 56.42,₹ 10.16
+T00040017,2025-05-18 00:00:00,Priya Kapoor,Bill Payment,Pending,Male,Retail,Uttar Pradesh,₹ 1917.21,₹ 0.00,₹ 0.00
+T00040120,2025-02-12 00:00:00,Nisha Bansal,Deposit,Pending,Male,Retail,Rajasthan,₹ 5216.15,₹ 26.08,₹ 4.69
+T00040145,2025-01-07 00:00:00,Ishaan Iyer,Investment,Pending,Male,SME,West Bengal,₹ 13879.94,₹ 69.40,₹ 12.49
+T00040150,2025-08-03 00:00:00,Diya Kulkarni,Loan EMI,Pending,Female,Premium,Gujarat,₹ 17325.00,₹ 86.62,₹ 15.59
+T00040301,2025-10-15 00:00:00,Ayaan Agarwal,Transfer,Pending,Male,Retail,Chandigarh,₹ 10172.02,₹ 50.86,₹ 9.15
+T00040353,2025-04-03 00:00:00,Kiara Mishra,Loan EMI,Pending,Male,Retail,Tamil Nadu,₹ 24160.46,₹ 48.32,₹ 8.70
+T00040433,2025-03-23 00:00:00,Priya Desai,Loan EMI,Pending,Male,Retail,Uttar Pradesh,₹ 2102.35,₹ 0.00,₹ 0.00
+T00040478,2025-06-02 00:00:00,Aadhya Mishra,Fee Charge,Pending,Female,Premium,Rajasthan,₹ 845.99,₹ 0.85,₹ 0.15
+T00040561,2025-08-15 00:00:00,Pooja Malhotra,Refund,Pending,Male,Premium,Karnataka,₹ 1728.97,₹ 1.73,₹ 0.31
+T00040570,2025-09-23 00:00:00,Krishna Kulkarni,Card Payment,Pending,Male,Retail,Karnataka,₹ 2368.09,₹ 11.84,₹ 2.13
+T00040862,2025-05-20 00:00:00,Pari Mishra,Fee Charge,Pending,Female,Retail,Telangana,₹ 562.35,₹ 0.56,₹ 0.10
+T00040901,2025-11-18 00:00:00,Nisha Malhotra,Fee Charge,Pending,Female,Retail,Madhya Pradesh,₹ 544.42,₹ 0.00,₹ 0.00
+T00041222,2025-01-05 00:00:00,Diya Verma,Transfer,Pending,Male,Retail,Maharashtra,₹ 5613.40,₹ 5.61,₹ 1.01
+T00041224,2025-02-22 00:00:00,Rahul Mehta,Bill Payment,Pending,Female,Retail,Chandigarh,₹ 10328.12,₹ 10.33,₹ 1.86
+T00041252,2025-04-21 00:00:00,Kiara Malhotra,Deposit,Pending,Female,Retail,Maharashtra,₹ 6965.37,₹ 0.00,₹ 0.00
+T00041605,2025-12-25 00:00:00,Riya Patel,Transfer,Pending,Female,Retail,Delhi,₹ 3692.52,₹ 18.46,₹ 3.32
+T00041728,2025-07-17 00:00:00,Krishna Joshi,Loan EMI,Pending,Female,Premium,Maharashtra,₹ 8077.36,₹ 8.08,₹ 1.45
+T00041825,2025-09-10 00:00:00,Ira Jain,Interest Credit,Pending,Female,Wealth,Madhya Pradesh,₹ 220.12,₹ 1.10,₹ 0.20
+T00041899,2025-09-22 00:00:00,Rahul Bansal,Card Payment,Pending,Female,Premium,Tamil Nadu,₹ 1669.80,₹ 3.34,₹ 0.60
+T00042004,2025-08-12 00:00:00,Rahul Kulkarni,Deposit,Pending,Female,Premium,Rajasthan,₹ 12321.95,₹ 0.00,₹ 0.00
+T00042256,2025-01-11 00:00:00,Karan Bansal,Investment,Pending,Female,Corporate,Tamil Nadu,₹ 48564.69,₹ 242.82,₹ 43.71
+T00042296,2025-04-22 00:00:00,Pooja Kapoor,Bill Payment,Pending,Female,Retail,Rajasthan,₹ 3276.64,₹ 3.28,₹ 0.59
+T00042312,2025-07-14 00:00:00,Krishna Mishra,Interest Credit,Pending,Female,Retail,Uttar Pradesh,₹ 427.05,₹ 0.00,₹ 0.00
+T00042400,2025-04-13 00:00:00,Myra Agarwal,Withdrawal,Pending,Male,Retail,Tamil Nadu,₹ 7479.39,₹ 14.96,₹ 2.69
+T00042456,2025-05-25 00:00:00,Ishaan Patel,Fee Charge,Pending,Female,Corporate,Tamil Nadu,₹ 818.41,₹ 4.09,₹ 0.74
+T00042578,2025-03-20 00:00:00,Reyansh Kapoor,Loan EMI,Pending,Male,Premium,Uttar Pradesh,₹ 11842.16,₹ 23.68,₹ 4.26
+T00042594,2025-01-25 00:00:00,Aarav Iyer,Fee Charge,Pending,Female,SME,Kerala,₹ 606.20,₹ 0.00,₹ 0.00
+T00042861,2025-08-22 00:00:00,Myra Iyer,Interest Credit,Pending,Male,SME,Karnataka,₹ 3354.83,₹ 0.00,₹ 0.00
+T00042887,2025-03-10 00:00:00,Diya Nair,Loan EMI,Pending,Male,Retail,Kerala,₹ 19429.83,₹ 38.86,₹ 6.99
+T00042932,2025-01-25 00:00:00,Kiara Singh,Withdrawal,Pending,Male,Retail,Delhi,₹ 1366.96,₹ 0.00,₹ 0.00
+T00042995,2025-10-03 00:00:00,Ayaan Mehta,Loan EMI,Pending,Female,Premium,Madhya Pradesh,₹ 9375.57,₹ 46.88,₹ 8.44
+T00043036,2025-05-14 00:00:00,Aadhya Bansal,Deposit,Pending,Female,Retail,Gujarat,₹ 11751.60,₹ 0.00,₹ 0.00
+T00043109,2025-09-26 00:00:00,Arjun Mishra,Fee Charge,Pending,Male,Corporate,Karnataka,₹ 70.89,₹ 0.07,₹ 0.01
+T00043197,2025-01-28 00:00:00,Priya Iyer,Loan EMI,Pending,Female,Retail,Madhya Pradesh,₹ 7879.45,₹ 0.00,₹ 0.00
+T00043213,2025-11-17 00:00:00,Pari Kulkarni,Withdrawal,Pending,Female,Premium,Maharashtra,₹ 5643.48,₹ 0.00,₹ 0.00
+T00043288,2025-07-20 00:00:00,Sara Kulkarni,Withdrawal,Pending,Female,Retail,Uttar Pradesh,₹ 2459.17,₹ 0.00,₹ 0.00
+T00043681,2025-07-24 00:00:00,Ira Bansal,Loan EMI,Pending,Female,Retail,Maharashtra,₹ 3305.69,₹ 0.00,₹ 0.00
+T00043754,2025-07-21 00:00:00,Ayaan Malhotra,Deposit,Pending,Female,Retail,Maharashtra,₹ 5058.84,₹ 5.06,₹ 0.91
+T00043755,2025-01-17 00:00:00,Pari Desai,Refund,Pending,Female,Premium,Karnataka,₹ 2976.06,₹ 2.98,₹ 0.54
+T00043758,2025-06-10 00:00:00,Vivaan Iyer,Investment,Pending,Male,Premium,West Bengal,₹ 21843.51,₹ 0.00,₹ 0.00
+T00043830,2025-05-27 00:00:00,Sneha Patel,Loan EMI,Pending,Male,Retail,Karnataka,₹ 1625.51,₹ 8.13,₹ 1.46
+T00043929,2025-03-21 00:00:00,Aditya Kumar,Bill Payment,Pending,Male,Premium,Delhi,₹ 6751.53,₹ 0.00,₹ 0.00
+T00043960,2025-01-07 00:00:00,Pooja Verma,Transfer,Pending,Male,Retail,Tamil Nadu,₹ 10825.46,₹ 10.83,₹ 1.95
+T00044207,2025-06-16 00:00:00,Rohan Sharma,Refund,Pending,Female,Retail,Karnataka,₹ 956.40,₹ 0.96,₹ 0.17
+T00044234,2025-06-14 00:00:00,Vivaan Jain,Withdrawal,Pending,Male,SME,Maharashtra,₹ 3576.37,₹ 3.58,₹ 0.64
+T00044246,2025-01-01 00:00:00,Nisha Mishra,Fee Charge,Pending,Female,Premium,Rajasthan,₹ 353.06,₹ 1.77,₹ 0.32
+T00044321,2025-04-19 00:00:00,Sai Patel,Withdrawal,Pending,Male,Retail,West Bengal,₹ 5045.65,₹ 10.09,₹ 1.82
+T00044646,2025-09-01 00:00:00,Karan Iyer,Withdrawal,Pending,Male,Retail,Gujarat,₹ 2592.06,₹ 5.18,₹ 0.93
+T00044766,2025-07-24 00:00:00,Nisha Kumar,Fee Charge,Pending,Female,SME,Telangana,₹ 597.07,₹ 0.60,₹ 0.11
+T00044818,2025-07-03 00:00:00,Kiara Reddy,Interest Credit,Pending,Male,Premium,Maharashtra,₹ 134.99,₹ 0.27,₹ 0.05
+T00044885,2025-06-15 00:00:00,Vihaan Iyer,Fee Charge,Pending,Female,SME,Delhi,₹ 545.42,₹ 0.55,₹ 0.10
+T00044899,2025-08-09 00:00:00,Aadhya Singh,Investment,Pending,Male,Premium,Karnataka,₹ 9854.48,₹ 0.00,₹ 0.00
+T00045049,2025-05-06 00:00:00,Priya Mehta,Deposit,Pending,Female,Retail,Rajasthan,₹ 23472.52,₹ 117.36,₹ 21.12
+T00045063,2025-04-07 00:00:00,Nisha Patel,Loan EMI,Pending,Male,Retail,Karnataka,₹ 11096.15,₹ 11.10,₹ 2.00
+T00045073,2025-03-01 00:00:00,Aditya Kulkarni,Deposit,Pending,Male,Premium,West Bengal,₹ 4177.18,₹ 0.00,₹ 0.00
+T00045127,2025-02-26 00:00:00,Vihaan Sharma,Refund,Pending,Male,Retail,Gujarat,₹ 2301.92,₹ 4.60,₹ 0.83
+T00045186,2025-03-06 00:00:00,Kabir Malhotra,Card Payment,Pending,Female,Retail,Rajasthan,₹ 948.96,₹ 0.00,₹ 0.00
+T00045256,2025-02-08 00:00:00,Reyansh Sharma,Transfer,Pending,Female,SME,Gujarat,₹ 4660.21,₹ 4.66,₹ 0.84
+T00045295,2025-10-02 00:00:00,Sara Mishra,Transfer,Pending,Male,Retail,Telangana,₹ 2889.46,₹ 14.45,₹ 2.60
+T00045314,2025-09-20 00:00:00,Rahul Jain,Bill Payment,Pending,Male,Retail,Delhi,₹ 3794.44,₹ 0.00,₹ 0.00
+T00045374,2025-06-30 00:00:00,Myra Iyer,Loan EMI,Pending,Male,Retail,Tamil Nadu,₹ 14954.23,₹ 14.95,₹ 2.69
+T00045409,2025-05-15 00:00:00,Sara Singh,Investment,Pending,Male,Retail,Chandigarh,₹ 32797.83,₹ 65.60,₹ 11.81
+T00045476,2025-01-03 00:00:00,Kiara Mishra,Loan EMI,Pending,Female,SME,Karnataka,₹ 1998.03,₹ 2.00,₹ 0.36
+T00045564,2025-04-23 00:00:00,Pooja Sharma,Interest Credit,Pending,Female,Corporate,Delhi,₹ 444.04,₹ 0.00,₹ 0.00
+T00045680,2025-07-31 00:00:00,Vivaan Verma,Transfer,Pending,Male,Retail,West Bengal,₹ 3440.34,₹ 0.00,₹ 0.00
+T00045776,2025-03-22 00:00:00,Ira Iyer,Fee Charge,Pending,Female,Retail,Rajasthan,₹ 395.67,₹ 0.79,₹ 0.14
+T00045851,2025-03-04 00:00:00,Anaya Kapoor,Loan EMI,Pending,Male,Retail,Haryana,₹ 6310.52,₹ 0.00,₹ 0.00
+T00045979,2025-11-01 00:00:00,Karan Joshi,Refund,Pending,Male,Retail,Gujarat,₹ 976.99,₹ 0.00,₹ 0.00
+T00046016,2025-08-31 00:00:00,Aarav Patel,Deposit,Pending,Male,Wealth,Madhya Pradesh,₹ 10540.78,₹ 52.70,₹ 9.49
+T00046136,2025-12-11 00:00:00,Pooja Joshi,Refund,Pending,Female,Corporate,Karnataka,₹ 3133.36,₹ 0.00,₹ 0.00
+T00046155,2025-05-27 00:00:00,Aadhya Sharma,Refund,Pending,Female,Premium,Maharashtra,₹ 2690.43,₹ 0.00,₹ 0.00
+T00046265,2025-08-19 00:00:00,Nisha Patel,Fee Charge,Pending,Female,Retail,Delhi,₹ 120.59,₹ 0.00,₹ 0.00
+T00046353,2025-08-29 00:00:00,Nisha Patel,Transfer,Pending,Male,Retail,Karnataka,₹ 4989.22,₹ 9.98,₹ 1.80
+T00046357,2025-10-05 00:00:00,Sai Joshi,Interest Credit,Pending,Male,Retail,West Bengal,₹ 1031.50,₹ 5.16,₹ 0.93
+T00046461,2025-10-24 00:00:00,Riya Gupta,Loan EMI,Pending,Female,Premium,Gujarat,₹ 12994.37,₹ 25.99,₹ 4.68
+T00046590,2025-02-11 00:00:00,Karan Desai,Bill Payment,Pending,Male,Retail,Gujarat,₹ 3231.38,₹ 3.23,₹ 0.58
+T00046600,2025-09-07 00:00:00,Vivaan Verma,Fee Charge,Pending,Male,Retail,Karnataka,₹ 271.13,₹ 0.27,₹ 0.05
+T00046816,2025-08-19 00:00:00,Priya Kulkarni,Interest Credit,Pending,Male,Retail,Haryana,₹ 173.82,₹ 0.17,₹ 0.03
+T00046893,2025-10-27 00:00:00,Ishaan Chopra,Card Payment,Pending,Female,Retail,Uttar Pradesh,₹ 1346.92,₹ 2.69,₹ 0.48
+T00046951,2025-11-29 00:00:00,Neha Mishra,Deposit,Pending,Male,Premium,Haryana,₹ 2480.50,₹ 12.40,₹ 2.23
+T00047135,2025-09-04 00:00:00,Ira Reddy,Transfer,Pending,Male,Wealth,Maharashtra,₹ 6943.13,₹ 13.89,₹ 2.50
+T00047276,2025-11-26 00:00:00,Priya Chopra,Bill Payment,Pending,Male,Corporate,Uttar Pradesh,₹ 5831.81,₹ 29.16,₹ 5.25
+T00047337,2025-02-02 00:00:00,Kiara Reddy,Card Payment,Pending,Female,SME,Maharashtra,₹ 2534.23,₹ 12.67,₹ 2.28
+T00047404,2025-11-16 00:00:00,Aadhya Patel,Loan EMI,Pending,Male,Retail,Chandigarh,₹ 31699.17,₹ 0.00,₹ 0.00
+T00047540,2025-06-05 00:00:00,Ishaan Singh,Transfer,Pending,Male,Corporate,Haryana,₹ 25047.81,₹ 125.24,₹ 22.54
+T00047557,2025-09-30 00:00:00,Amit Desai,Fee Charge,Pending,Male,SME,Karnataka,₹ 721.99,₹ 0.00,₹ 0.00
+T00047630,2025-02-28 00:00:00,Reyansh Kulkarni,Deposit,Pending,Female,Retail,Maharashtra,₹ 14079.01,₹ 0.00,₹ 0.00
+T00047723,2025-12-03 00:00:00,Ishaan Bansal,Withdrawal,Pending,Male,Retail,Madhya Pradesh,₹ 3507.04,₹ 3.51,₹ 0.63
+T00047802,2025-10-21 00:00:00,Sneha Verma,Withdrawal,Pending,Male,Corporate,Tamil Nadu,₹ 2135.14,₹ 0.00,₹ 0.00
+T00047859,2025-04-20 00:00:00,Priya Gupta,Withdrawal,Pending,Male,Retail,Gujarat,₹ 14737.50,₹ 0.00,₹ 0.00
+T00047954,2025-04-17 00:00:00,Vivaan Kapoor,Transfer,Pending,Female,Corporate,Tamil Nadu,₹ 5407.42,₹ 27.04,₹ 4.87
+T00048257,2025-05-10 00:00:00,Pooja Mehta,Transfer,Pending,Male,Retail,Gujarat,₹ 8099.08,₹ 40.50,₹ 7.29
+T00048272,2025-10-19 00:00:00,Ayaan Malhotra,Bill Payment,Pending,Male,Retail,Maharashtra,₹ 12845.82,₹ 25.69,₹ 4.62
+T00048397,2025-06-05 00:00:00,Ishaan Nair,Fee Charge,Pending,Male,Retail,Maharashtra,₹ 205.94,₹ 1.03,₹ 0.19
+T00048439,2025-03-26 00:00:00,Ira Verma,Withdrawal,Pending,Male,Retail,Gujarat,₹ 11299.91,₹ 22.60,₹ 4.07
+T00048473,2025-11-12 00:00:00,Ira Kulkarni,Transfer,Pending,Female,SME,Gujarat,₹ 8099.65,₹ 8.10,₹ 1.46
+T00048546,2025-04-02 00:00:00,Riya Kumar,Deposit,Pending,Female,Retail,Madhya Pradesh,₹ 12536.92,₹ 0.00,₹ 0.00
+T00048550,2025-09-19 00:00:00,Ayaan Mishra,Loan EMI,Pending,Male,SME,Uttar Pradesh,₹ 3701.47,₹ 0.00,₹ 0.00
+T00048590,2025-12-02 00:00:00,Neha Bansal,Transfer,Pending,Male,Retail,Maharashtra,₹ 21861.20,₹ 0.00,₹ 0.00
+T00048640,2025-08-24 00:00:00,Aarav Mishra,Deposit,Pending,Male,SME,Uttar Pradesh,₹ 2284.14,₹ 0.00,₹ 0.00
+T00048672,2025-10-14 00:00:00,Karan Reddy,Refund,Pending,Male,SME,Karnataka,₹ 2525.35,₹ 2.53,₹ 0.46
+T00048676,2025-11-16 00:00:00,Ayaan Kulkarni,Loan EMI,Pending,Female,Retail,Haryana,₹ 123415.52,₹ 617.08,₹ 111.07
+T00048687,2025-03-19 00:00:00,Ayaan Verma,Fee Charge,Pending,Female,Premium,Karnataka,₹ 92.50,₹ 0.00,₹ 0.00
+T00048708,2025-02-01 00:00:00,Anika Verma,Card Payment,Pending,Male,Premium,Haryana,₹ 7259.30,₹ 36.30,₹ 6.53
+T00048854,2025-08-01 00:00:00,Anika Kumar,Withdrawal,Pending,Female,Premium,Maharashtra,₹ 5676.80,₹ 28.38,₹ 5.11
+T00048991,2025-09-01 00:00:00,Arjun Malhotra,Interest Credit,Pending,Female,Retail,West Bengal,₹ 1061.00,₹ 2.12,₹ 0.38
+T00049080,2025-06-21 00:00:00,Riya Jain,Bill Payment,Pending,Male,SME,Gujarat,₹ 2603.17,₹ 2.60,₹ 0.47
+T00049106,2025-05-03 00:00:00,Reyansh Gupta,Bill Payment,Pending,Female,Retail,Telangana,₹ 6899.15,₹ 6.90,₹ 1.24
+T00049245,2025-11-17 00:00:00,Amit Iyer,Withdrawal,Pending,Female,Premium,Tamil Nadu,₹ 960.73,₹ 1.92,₹ 0.35
+T00049474,2025-11-09 00:00:00,Rohan Bansal,Investment,Pending,Male,Retail,Rajasthan,₹ 8275.15,₹ 0.00,₹ 0.00
+T00049720,2025-04-26 00:00:00,Priya Malhotra,Interest Credit,Pending,Male,Premium,Telangana,₹ 3398.95,₹ 3.40,₹ 0.61
+T00049943,2025-12-01 00:00:00,Diya Patel,Fee Charge,Pending,Male,Corporate,Haryana,₹ 267.35,₹ 0.00,₹ 0.00
+T00049963,2025-01-30 00:00:00,Amit Mehta,Refund,Pending,Female,Premium,Chandigarh,₹ 186.33,₹ 0.00,₹ 0.00
